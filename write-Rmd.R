@@ -1,3 +1,3 @@
 library(rmarkdown)
 
-rmarkdown::render("gov.Rmd", output_format = "html_document")
+rmarkdown::render("gov.R", output_format = "html_document")

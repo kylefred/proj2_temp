@@ -726,109 +726,315 @@ forecastdate,state,district,special,candidate,party,incumbent,model,win_probabil
 2018-10-19,WY,"",,Mark Gordon,R,false,classic,0.9939,60.21,54.16,66.25
 2018-10-19,WY,"",,Mary Throne,D,false,classic,0.0061,35.24,29.1,41.33
 2018-10-19,WY,"",,Others,,false,classic,0.0,4.55,1.72,7.97
-2018-10-20,AK,"",,Mike Dunleavy,R,false,classic,0.6597,50.51,44.95,56.09
-2018-10-20,AK,"",,Mark Begich,D,false,classic,0.3403,47.08,41.47,52.65
-2018-10-20,AK,"",,Others,,false,classic,0.0,2.41,0.7,4.57
-2018-10-20,AL,"",,Kay Ivey,R,true,classic,0.9871,58.49,53.83,63.13
-2018-10-20,AL,"",,Walt Maddox,D,false,classic,0.0129,41.51,36.87,46.17
-2018-10-20,AR,"",,Asa Hutchinson,R,true,classic,0.9989,63.88,58.52,69.29
-2018-10-20,AR,"",,Jared Henderson,D,false,classic,0.0011,33.65,28.25,39.03
-2018-10-20,AR,"",,Mark West,L,false,classic,0.0,2.47,0.72,4.68
-2018-10-20,AZ,"",,Doug Ducey,R,true,classic,0.9474,54.64,50.08,59.22
-2018-10-20,AZ,"",,David Garcia,D,false,classic,0.0526,43.24,38.65,47.77
+2018-10-20,AK,"",,Mike Dunleavy,R,false,classic,0.6585,50.51,44.95,56.11
+2018-10-20,AK,"",,Mark Begich,D,false,classic,0.3415,47.08,41.42,52.62
+2018-10-20,AK,"",,Others,,false,classic,0.0,2.41,0.69,4.55
+2018-10-20,AL,"",,Kay Ivey,R,true,classic,0.9878,58.49,53.94,63.11
+2018-10-20,AL,"",,Walt Maddox,D,false,classic,0.0122,41.51,36.89,46.06
+2018-10-20,AR,"",,Asa Hutchinson,R,true,classic,0.9987,63.88,58.52,69.25
+2018-10-20,AR,"",,Jared Henderson,D,false,classic,0.0013,33.65,28.25,38.98
+2018-10-20,AR,"",,Mark West,L,false,classic,0.0,2.47,0.73,4.65
+2018-10-20,AZ,"",,Doug Ducey,R,true,classic,0.9486,54.64,50.11,59.24
+2018-10-20,AZ,"",,David Garcia,D,false,classic,0.0514,43.24,38.63,47.73
 2018-10-20,AZ,"",,Angel Torres,G,false,classic,0.0,2.12,0.58,4.07
-2018-10-20,CA,"",,Gavin Newsom,D,false,classic,0.987,59.18,54.08,64.22
-2018-10-20,CA,"",,John Cox,R,false,classic,0.013,40.82,35.78,45.92
-2018-10-20,CO,"",,Jared Polis,D,false,classic,0.9195,54.03,49.02,59.07
-2018-10-20,CO,"",,Walker Stapleton,R,false,classic,0.0805,43.31,38.29,48.33
-2018-10-20,CO,"",,Others,,false,classic,0.0,2.66,0.81,4.96
-2018-10-20,CT,"",,Ned Lamont,D,false,classic,0.8233,51.95,47.31,56.55
-2018-10-20,CT,"",,Bob Stefanowski,R,false,classic,0.1767,45.51,40.88,50.16
-2018-10-20,CT,"",,Others,,false,classic,0.0,2.54,0.75,4.8
-2018-10-20,FL,"",,Andrew Gillum,D,false,classic,0.7157,50.51,46.2,54.74
-2018-10-20,FL,"",,Ron DeSantis,R,false,classic,0.2843,46.94,42.66,51.23
-2018-10-20,FL,"",,Others,,false,classic,0.0,2.55,0.76,4.78
-2018-10-20,GA,"",,Brian Kemp,R,false,classic,0.5642,49.71,45.89,53.52
-2018-10-20,GA,"",,Stacey Abrams,D,false,classic,0.4358,49.08,45.25,52.9
-2018-10-20,GA,"",,Ted Metz,L,false,classic,0.0,1.2,0.26,2.45
-2018-10-20,HI,"",,David Ige,D,true,classic,0.9979,63.02,56.99,69.04
-2018-10-20,HI,"",,Andria Tupola,R,false,classic,0.0021,33.34,27.3,39.39
-2018-10-20,HI,"",,Others,,false,classic,0.0,3.64,1.27,6.57
-2018-10-20,IA,"",,Fred Hubbell,D,false,classic,0.8501,52.5,47.19,57.78
-2018-10-20,IA,"",,Kim Reynolds,R,true,classic,0.1499,44.32,39.02,49.57
-2018-10-20,IA,"",,Others,,false,classic,0.0,3.18,1.05,5.82
-2018-10-20,ID,"",,Brad Little,R,false,classic,0.9529,54.19,48.2,60.17
-2018-10-20,ID,"",,Paulette Jordan,D,false,classic,0.0471,39.33,33.32,45.21
-2018-10-20,ID,"",,Others,,false,classic,0.0,6.48,2.86,10.72
-2018-10-20,IL,"",,JB Pritzker,D,false,classic,0.9113,53.9,47.5,60.27
-2018-10-20,IL,"",,Bruce Rauner,R,true,classic,0.0887,41.09,34.69,47.41
-2018-10-20,IL,"",,Others,,false,classic,0.0,5.0,1.99,8.62
-2018-10-20,KS,"",,Kris Kobach,R,false,classic,0.6196,45.24,39.57,50.77
-2018-10-20,KS,"",,Laura Kelly,D,false,classic,0.38,43.01,37.37,48.55
-2018-10-20,KS,"",,Greg Orman,I,false,classic,0.0004,9.89,5.2,15.13
-2018-10-20,KS,"",,Others,,false,classic,0.0,1.86,0.47,3.64
-2018-10-20,MA,"",,Charlie Baker,R,true,classic,0.9975,64.57,58.64,70.46
-2018-10-20,MA,"",,Jay Gonzalez,D,false,classic,0.0025,35.43,29.54,41.36
-2018-10-20,MD,"",,Larry Hogan,R,true,classic,0.9909,57.28,52.65,61.81
-2018-10-20,MD,"",,Ben Jealous,D,false,classic,0.0091,39.83,35.29,44.38
-2018-10-20,MD,"",,Others,,false,classic,0.0,2.89,0.91,5.33
-2018-10-20,ME,"",,Janet Mills,D,false,classic,0.9069,54.12,48.79,59.44
-2018-10-20,ME,"",,Shawn Moody,R,false,classic,0.0931,43.48,38.16,48.76
-2018-10-20,ME,"",,Others,,false,classic,0.0,2.39,0.69,4.54
-2018-10-20,MI,"",,Gretchen Whitmer,D,false,classic,0.9551,54.32,49.72,58.79
-2018-10-20,MI,"",,Bill Schuette,R,false,classic,0.0449,42.55,38.03,47.12
-2018-10-20,MI,"",,Others,,false,classic,0.0,3.13,1.02,5.73
-2018-10-20,MN,"",,Tim Walz,D,false,classic,0.9185,54.04,49.16,58.85
-2018-10-20,MN,"",,Jeff Johnson,R,false,classic,0.0815,43.68,38.86,48.53
-2018-10-20,MN,"",,Others,,false,classic,0.0,2.28,0.65,4.35
-2018-10-20,NE,"",,Pete Ricketts,R,true,classic,0.9913,61.28,55.69,66.89
-2018-10-20,NE,"",,Bob Krist,D,false,classic,0.0087,38.72,33.11,44.31
-2018-10-20,NH,"",,Chris Sununu,R,true,classic,0.9687,56.18,51.26,61.03
-2018-10-20,NH,"",,Molly Kelly,D,false,classic,0.0313,41.85,36.93,46.73
-2018-10-20,NH,"",,Jilletta Jarvis,L,false,classic,0.0,1.97,0.53,3.8
-2018-10-20,NM,"",,Michelle Lujan Grisham,D,false,classic,0.8679,53.77,49.43,58.09
-2018-10-20,NM,"",,Steve Pearce,R,false,classic,0.1321,46.23,41.91,50.57
-2018-10-20,NV,"",,Adam Laxalt,R,false,classic,0.5428,49.05,44.76,53.34
-2018-10-20,NV,"",,Steve Sisolak,D,false,classic,0.4572,48.37,44.07,52.64
-2018-10-20,NV,"",,Others,,false,classic,0.0,2.57,0.76,4.85
-2018-10-20,NY,"",,Andrew Cuomo,D,true,classic,0.997,59.1,54.24,63.87
-2018-10-20,NY,"",,Marc Molinaro,R,false,classic,0.003,37.13,32.33,41.95
+2018-10-20,CA,"",,Gavin Newsom,D,false,classic,0.9855,59.18,54.15,64.25
+2018-10-20,CA,"",,John Cox,R,false,classic,0.0145,40.82,35.75,45.85
+2018-10-20,CO,"",,Jared Polis,D,false,classic,0.9197,54.03,48.99,59.05
+2018-10-20,CO,"",,Walker Stapleton,R,false,classic,0.0803,43.31,38.28,48.35
+2018-10-20,CO,"",,Others,,false,classic,0.0,2.66,0.8,4.99
+2018-10-20,CT,"",,Ned Lamont,D,false,classic,0.8227,51.95,47.25,56.58
+2018-10-20,CT,"",,Bob Stefanowski,R,false,classic,0.1773,45.51,40.86,50.19
+2018-10-20,CT,"",,Others,,false,classic,0.0,2.54,0.75,4.77
+2018-10-20,FL,"",,Andrew Gillum,D,false,classic,0.7158,50.51,46.23,54.76
+2018-10-20,FL,"",,Ron DeSantis,R,false,classic,0.2842,46.94,42.64,51.2
+2018-10-20,FL,"",,Others,,false,classic,0.0,2.55,0.75,4.79
+2018-10-20,GA,"",,Brian Kemp,R,false,classic,0.5672,49.72,45.88,53.57
+2018-10-20,GA,"",,Stacey Abrams,D,false,classic,0.4328,49.08,45.23,52.92
+2018-10-20,GA,"",,Ted Metz,L,false,classic,0.0,1.2,0.26,2.46
+2018-10-20,HI,"",,David Ige,D,true,classic,0.9981,63.02,56.98,68.98
+2018-10-20,HI,"",,Andria Tupola,R,false,classic,0.0019,33.34,27.35,39.37
+2018-10-20,HI,"",,Others,,false,classic,0.0,3.64,1.27,6.56
+2018-10-20,IA,"",,Fred Hubbell,D,false,classic,0.852,52.5,47.2,57.75
+2018-10-20,IA,"",,Kim Reynolds,R,true,classic,0.148,44.32,39.02,49.61
+2018-10-20,IA,"",,Others,,false,classic,0.0,3.18,1.06,5.78
+2018-10-20,ID,"",,Brad Little,R,false,classic,0.9537,54.19,48.22,60.09
+2018-10-20,ID,"",,Paulette Jordan,D,false,classic,0.0463,39.33,33.35,45.23
+2018-10-20,ID,"",,Others,,false,classic,0.0,6.48,2.87,10.63
+2018-10-20,IL,"",,JB Pritzker,D,false,classic,0.9116,53.9,47.5,60.32
+2018-10-20,IL,"",,Bruce Rauner,R,true,classic,0.0884,41.09,34.68,47.39
+2018-10-20,IL,"",,Others,,false,classic,0.0,5.0,2.0,8.62
+2018-10-20,KS,"",,Kris Kobach,R,false,classic,0.6208,45.25,39.6,50.83
+2018-10-20,KS,"",,Laura Kelly,D,false,classic,0.3787,43.0,37.37,48.54
+2018-10-20,KS,"",,Greg Orman,I,false,classic,0.0005,9.89,5.2,15.13
+2018-10-20,KS,"",,Others,,false,classic,0.0,1.86,0.48,3.62
+2018-10-20,MA,"",,Charlie Baker,R,true,classic,0.9976,64.58,58.71,70.47
+2018-10-20,MA,"",,Jay Gonzalez,D,false,classic,0.0024,35.42,29.53,41.29
+2018-10-20,MD,"",,Larry Hogan,R,true,classic,0.9915,57.28,52.67,61.88
+2018-10-20,MD,"",,Ben Jealous,D,false,classic,0.0085,39.83,35.17,44.41
+2018-10-20,MD,"",,Others,,false,classic,0.0,2.89,0.91,5.34
+2018-10-20,ME,"",,Janet Mills,D,false,classic,0.9047,54.12,48.77,59.41
+2018-10-20,ME,"",,Shawn Moody,R,false,classic,0.0953,43.49,38.17,48.81
+2018-10-20,ME,"",,Others,,false,classic,0.0,2.39,0.69,4.53
+2018-10-20,MI,"",,Gretchen Whitmer,D,false,classic,0.9553,54.32,49.76,58.86
+2018-10-20,MI,"",,Bill Schuette,R,false,classic,0.0447,42.55,37.94,47.06
+2018-10-20,MI,"",,Others,,false,classic,0.0,3.13,1.02,5.74
+2018-10-20,MN,"",,Tim Walz,D,false,classic,0.9189,54.04,49.19,58.9
+2018-10-20,MN,"",,Jeff Johnson,R,false,classic,0.0811,43.68,38.82,48.51
+2018-10-20,MN,"",,Others,,false,classic,0.0,2.28,0.65,4.36
+2018-10-20,NE,"",,Pete Ricketts,R,true,classic,0.9906,61.28,55.66,66.92
+2018-10-20,NE,"",,Bob Krist,D,false,classic,0.0094,38.72,33.08,44.34
+2018-10-20,NH,"",,Chris Sununu,R,true,classic,0.9693,56.18,51.3,61.06
+2018-10-20,NH,"",,Molly Kelly,D,false,classic,0.0307,41.85,36.96,46.7
+2018-10-20,NH,"",,Jilletta Jarvis,L,false,classic,0.0,1.97,0.52,3.84
+2018-10-20,NM,"",,Michelle Lujan Grisham,D,false,classic,0.8662,53.77,49.4,58.04
+2018-10-20,NM,"",,Steve Pearce,R,false,classic,0.1338,46.23,41.96,50.6
+2018-10-20,NV,"",,Adam Laxalt,R,false,classic,0.5442,49.05,44.73,53.34
+2018-10-20,NV,"",,Steve Sisolak,D,false,classic,0.4558,48.38,44.03,52.66
+2018-10-20,NV,"",,Others,,false,classic,0.0,2.57,0.78,4.84
+2018-10-20,NY,"",,Andrew Cuomo,D,true,classic,0.9971,59.1,54.26,63.86
+2018-10-20,NY,"",,Marc Molinaro,R,false,classic,0.0029,37.13,32.31,41.91
 2018-10-20,NY,"",,Others,,false,classic,0.0,3.77,1.33,6.75
-2018-10-20,OH,"",,Mike DeWine,R,false,classic,0.5674,49.54,45.11,53.87
-2018-10-20,OH,"",,Richard Cordray,D,false,classic,0.4326,48.4,44.03,52.78
-2018-10-20,OH,"",,Others,,false,classic,0.0,2.07,0.56,4.01
-2018-10-20,OK,"",,Kevin Stitt,R,false,classic,0.8056,52.22,47.4,57.04
-2018-10-20,OK,"",,Drew Edmondson,D,false,classic,0.1944,45.96,41.13,50.76
-2018-10-20,OK,"",,Chris Powell,L,false,classic,0.0,1.82,0.47,3.55
-2018-10-20,OR,"",,Kate Brown,D,true,classic,0.854,50.71,45.31,56.07
-2018-10-20,OR,"",,Knute Buehler,R,false,classic,0.146,42.7,37.29,48.01
-2018-10-20,OR,"",,Others,,false,classic,0.0,6.59,2.95,10.84
-2018-10-20,PA,"",,Tom Wolf,D,true,classic,0.989,56.82,52.53,61.02
-2018-10-20,PA,"",,Scott Wagner,R,false,classic,0.011,41.15,36.94,45.4
-2018-10-20,PA,"",,Others,,false,classic,0.0,2.03,0.55,3.93
-2018-10-20,RI,"",,Gina Raimondo,D,true,classic,0.9728,56.03,49.33,62.66
-2018-10-20,RI,"",,Allan Fung,R,false,classic,0.0272,36.51,29.78,43.12
-2018-10-20,RI,"",,Others,,false,classic,0.0,7.47,3.47,12.0
-2018-10-20,SC,"",,Henry McMaster,R,true,classic,0.9813,57.95,53.35,62.62
-2018-10-20,SC,"",,James Smith,D,false,classic,0.0187,42.05,37.38,46.65
-2018-10-20,SD,"",,Kristi Noem,R,false,classic,0.8876,54.33,48.56,60.05
-2018-10-20,SD,"",,Billie Sutton,D,false,classic,0.1124,43.59,37.8,49.36
-2018-10-20,SD,"",,Kurt Evans,L,false,classic,0.0,2.08,0.57,3.99
-2018-10-20,TN,"",,Bill Lee,R,false,classic,0.969,53.81,48.67,58.88
-2018-10-20,TN,"",,Karl Dean,D,false,classic,0.031,39.75,34.55,44.85
-2018-10-20,TN,"",,Others,,false,classic,0.0,6.44,2.83,10.63
-2018-10-20,TX,"",,Greg Abbott,R,true,classic,0.9957,58.42,54.16,62.69
-2018-10-20,TX,"",,Lupe Valdez,D,false,classic,0.0043,39.7,35.38,43.94
-2018-10-20,TX,"",,Mark Tippetts,L,false,classic,0.0,1.88,0.5,3.67
-2018-10-20,VT,"",,Phil Scott,R,true,classic,0.9565,53.54,48.11,58.9
-2018-10-20,VT,"",,Christine Hallquist,D,false,classic,0.0435,39.95,34.49,45.37
-2018-10-20,VT,"",,Others,,false,classic,0.0,6.5,2.89,10.68
-2018-10-20,WI,"",,Tony Evers,D,false,classic,0.6243,49.51,44.44,54.61
-2018-10-20,WI,"",,Scott Walker,R,true,classic,0.3757,47.12,41.96,52.16
-2018-10-20,WI,"",,Others,,false,classic,0.0,3.37,1.13,6.12
-2018-10-20,WY,"",,Mark Gordon,R,false,classic,0.9942,60.17,54.15,66.24
-2018-10-20,WY,"",,Mary Throne,D,false,classic,0.0058,35.27,29.11,41.29
+2018-10-20,OH,"",,Mike DeWine,R,false,classic,0.5715,49.54,45.15,53.94
+2018-10-20,OH,"",,Richard Cordray,D,false,classic,0.4285,48.4,43.96,52.77
+2018-10-20,OH,"",,Others,,false,classic,0.0,2.07,0.56,3.99
+2018-10-20,OK,"",,Kevin Stitt,R,false,classic,0.8042,52.22,47.4,57.06
+2018-10-20,OK,"",,Drew Edmondson,D,false,classic,0.1957,45.96,41.12,50.79
+2018-10-20,OK,"",,Chris Powell,L,false,classic,0.0,1.82,0.47,3.58
+2018-10-20,OR,"",,Kate Brown,D,true,classic,0.8529,50.71,45.28,56.04
+2018-10-20,OR,"",,Knute Buehler,R,false,classic,0.1471,42.7,37.3,48.07
+2018-10-20,OR,"",,Others,,false,classic,0.0,6.59,2.92,10.81
+2018-10-20,PA,"",,Tom Wolf,D,true,classic,0.9883,56.82,52.58,61.04
+2018-10-20,PA,"",,Scott Wagner,R,false,classic,0.0117,41.15,36.93,45.43
+2018-10-20,PA,"",,Others,,false,classic,0.0,2.03,0.55,3.92
+2018-10-20,RI,"",,Gina Raimondo,D,true,classic,0.9723,56.02,49.34,62.64
+2018-10-20,RI,"",,Allan Fung,R,false,classic,0.0277,36.51,29.84,43.14
+2018-10-20,RI,"",,Others,,false,classic,0.0,7.47,3.48,12.02
+2018-10-20,SC,"",,Henry McMaster,R,true,classic,0.9809,57.95,53.29,62.6
+2018-10-20,SC,"",,James Smith,D,false,classic,0.0191,42.05,37.4,46.71
+2018-10-20,SD,"",,Kristi Noem,R,false,classic,0.8903,54.33,48.64,60.11
+2018-10-20,SD,"",,Billie Sutton,D,false,classic,0.1097,43.59,37.79,49.29
+2018-10-20,SD,"",,Kurt Evans,L,false,classic,0.0,2.08,0.57,3.97
+2018-10-20,TN,"",,Bill Lee,R,false,classic,0.9724,53.81,48.75,58.84
+2018-10-20,TN,"",,Karl Dean,D,false,classic,0.0276,39.75,34.63,44.79
+2018-10-20,TN,"",,Others,,false,classic,0.0,6.44,2.83,10.61
+2018-10-20,TX,"",,Greg Abbott,R,true,classic,0.9958,58.41,54.22,62.64
+2018-10-20,TX,"",,Lupe Valdez,D,false,classic,0.0042,39.7,35.45,43.9
+2018-10-20,TX,"",,Mark Tippetts,L,false,classic,0.0,1.88,0.49,3.67
+2018-10-20,VT,"",,Phil Scott,R,true,classic,0.9575,53.55,48.13,58.88
+2018-10-20,VT,"",,Christine Hallquist,D,false,classic,0.0425,39.95,34.53,45.31
+2018-10-20,VT,"",,Others,,false,classic,0.0,6.5,2.92,10.71
+2018-10-20,WI,"",,Tony Evers,D,false,classic,0.6289,49.51,44.42,54.66
+2018-10-20,WI,"",,Scott Walker,R,true,classic,0.3711,47.12,42.01,52.15
+2018-10-20,WI,"",,Others,,false,classic,0.0,3.37,1.12,6.16
+2018-10-20,WY,"",,Mark Gordon,R,false,classic,0.9943,60.17,54.13,66.19
+2018-10-20,WY,"",,Mary Throne,D,false,classic,0.0057,35.27,29.23,41.33
 2018-10-20,WY,"",,Others,,false,classic,0.0,4.55,1.73,7.96
+2018-10-21,AK,"",,Mike Dunleavy,R,false,classic,0.6567,50.49,44.9,55.97
+2018-10-21,AK,"",,Mark Begich,D,false,classic,0.3433,47.1,41.55,52.67
+2018-10-21,AK,"",,Others,,false,classic,0.0,2.42,0.7,4.55
+2018-10-21,AL,"",,Kay Ivey,R,true,classic,0.9875,58.46,53.88,63.03
+2018-10-21,AL,"",,Walt Maddox,D,false,classic,0.0125,41.54,36.97,46.12
+2018-10-21,AR,"",,Asa Hutchinson,R,true,classic,0.999,63.66,58.35,68.95
+2018-10-21,AR,"",,Jared Henderson,D,false,classic,0.001,33.83,28.53,39.12
+2018-10-21,AR,"",,Mark West,L,false,classic,0.0,2.51,0.76,4.72
+2018-10-21,AZ,"",,Doug Ducey,R,true,classic,0.9473,54.63,50.05,59.21
+2018-10-21,AZ,"",,David Garcia,D,false,classic,0.0527,43.24,38.62,47.78
+2018-10-21,AZ,"",,Angel Torres,G,false,classic,0.0,2.14,0.59,4.09
+2018-10-21,CA,"",,Gavin Newsom,D,false,classic,0.987,59.2,54.18,64.23
+2018-10-21,CA,"",,John Cox,R,false,classic,0.013,40.8,35.77,45.82
+2018-10-21,CO,"",,Jared Polis,D,false,classic,0.9218,54.04,49.0,59.02
+2018-10-21,CO,"",,Walker Stapleton,R,false,classic,0.0782,43.28,38.27,48.24
+2018-10-21,CO,"",,Others,,false,classic,0.0,2.68,0.82,5.02
+2018-10-21,CT,"",,Ned Lamont,D,false,classic,0.828,51.96,47.32,56.6
+2018-10-21,CT,"",,Bob Stefanowski,R,false,classic,0.172,45.48,40.82,50.09
+2018-10-21,CT,"",,Others,,false,classic,0.0,2.55,0.77,4.79
+2018-10-21,FL,"",,Andrew Gillum,D,false,classic,0.7767,51.14,46.83,55.45
+2018-10-21,FL,"",,Ron DeSantis,R,false,classic,0.2233,46.33,42.0,50.64
+2018-10-21,FL,"",,Others,,false,classic,0.0,2.53,0.75,4.77
+2018-10-21,GA,"",,Brian Kemp,R,false,classic,0.5632,49.69,45.87,53.53
+2018-10-21,GA,"",,Stacey Abrams,D,false,classic,0.4368,49.1,45.28,52.92
+2018-10-21,GA,"",,Ted Metz,L,false,classic,0.0,1.21,0.26,2.47
+2018-10-21,HI,"",,David Ige,D,true,classic,0.9982,63.05,57.05,69.04
+2018-10-21,HI,"",,Andria Tupola,R,false,classic,0.0018,33.29,27.27,39.24
+2018-10-21,HI,"",,Others,,false,classic,0.0,3.66,1.28,6.57
+2018-10-21,IA,"",,Fred Hubbell,D,false,classic,0.8524,52.51,47.21,57.8
+2018-10-21,IA,"",,Kim Reynolds,R,true,classic,0.1476,44.28,38.95,49.56
+2018-10-21,IA,"",,Others,,false,classic,0.0,3.21,1.05,5.93
+2018-10-21,ID,"",,Brad Little,R,false,classic,0.9514,54.14,48.13,60.03
+2018-10-21,ID,"",,Paulette Jordan,D,false,classic,0.0486,39.33,33.34,45.28
+2018-10-21,ID,"",,Others,,false,classic,0.0,6.53,2.9,10.75
+2018-10-21,IL,"",,JB Pritzker,D,false,classic,0.9102,53.91,47.51,60.28
+2018-10-21,IL,"",,Bruce Rauner,R,true,classic,0.0898,41.06,34.68,47.47
+2018-10-21,IL,"",,Others,,false,classic,0.0,5.03,2.01,8.62
+2018-10-21,KS,"",,Kris Kobach,R,false,classic,0.6165,45.21,39.54,50.77
+2018-10-21,KS,"",,Laura Kelly,D,false,classic,0.3832,43.02,37.31,48.58
+2018-10-21,KS,"",,Greg Orman,I,false,classic,0.0004,9.89,5.21,15.14
+2018-10-21,KS,"",,Others,,false,classic,0.0,1.88,0.49,3.65
+2018-10-21,MA,"",,Charlie Baker,R,true,classic,0.9978,64.56,58.66,70.4
+2018-10-21,MA,"",,Jay Gonzalez,D,false,classic,0.0022,35.44,29.6,41.34
+2018-10-21,MD,"",,Larry Hogan,R,true,classic,0.9906,57.25,52.67,61.83
+2018-10-21,MD,"",,Ben Jealous,D,false,classic,0.0094,39.85,35.26,44.39
+2018-10-21,MD,"",,Others,,false,classic,0.0,2.9,0.92,5.37
+2018-10-21,ME,"",,Janet Mills,D,false,classic,0.9063,54.12,48.8,59.44
+2018-10-21,ME,"",,Shawn Moody,R,false,classic,0.0937,43.47,38.14,48.75
+2018-10-21,ME,"",,Others,,false,classic,0.0,2.41,0.69,4.57
+2018-10-21,MI,"",,Gretchen Whitmer,D,false,classic,0.9562,54.33,49.8,58.87
+2018-10-21,MI,"",,Bill Schuette,R,false,classic,0.0438,42.52,37.93,47.02
+2018-10-21,MI,"",,Others,,false,classic,0.0,3.15,1.02,5.77
+2018-10-21,MN,"",,Tim Walz,D,false,classic,0.8945,53.47,48.55,58.37
+2018-10-21,MN,"",,Jeff Johnson,R,false,classic,0.1055,44.14,39.21,49.06
+2018-10-21,MN,"",,Others,,false,classic,0.0,2.39,0.69,4.54
+2018-10-21,NE,"",,Pete Ricketts,R,true,classic,0.9911,61.24,55.64,66.75
+2018-10-21,NE,"",,Bob Krist,D,false,classic,0.0089,38.76,33.25,44.36
+2018-10-21,NH,"",,Chris Sununu,R,true,classic,0.9683,56.16,51.28,61.02
+2018-10-21,NH,"",,Molly Kelly,D,false,classic,0.0316,41.86,36.98,46.73
+2018-10-21,NH,"",,Jilletta Jarvis,L,false,classic,0.0,1.97,0.53,3.82
+2018-10-21,NM,"",,Michelle Lujan Grisham,D,false,classic,0.8696,53.8,49.43,58.14
+2018-10-21,NM,"",,Steve Pearce,R,false,classic,0.1304,46.2,41.86,50.57
+2018-10-21,NV,"",,Adam Laxalt,R,false,classic,0.5429,49.05,44.76,53.3
+2018-10-21,NV,"",,Steve Sisolak,D,false,classic,0.4571,48.37,44.06,52.64
+2018-10-21,NV,"",,Others,,false,classic,0.0,2.58,0.77,4.87
+2018-10-21,NY,"",,Andrew Cuomo,D,true,classic,0.9973,59.12,54.28,63.89
+2018-10-21,NY,"",,Marc Molinaro,R,false,classic,0.0027,37.1,32.32,41.84
+2018-10-21,NY,"",,Others,,false,classic,0.0,3.78,1.34,6.77
+2018-10-21,OH,"",,Mike DeWine,R,false,classic,0.5684,49.51,45.14,53.86
+2018-10-21,OH,"",,Richard Cordray,D,false,classic,0.4316,48.41,44.07,52.78
+2018-10-21,OH,"",,Others,,false,classic,0.0,2.08,0.57,4.01
+2018-10-21,OK,"",,Kevin Stitt,R,false,classic,0.8017,52.19,47.39,57.0
+2018-10-21,OK,"",,Drew Edmondson,D,false,classic,0.1983,45.98,41.13,50.79
+2018-10-21,OK,"",,Chris Powell,L,false,classic,0.0,1.83,0.48,3.56
+2018-10-21,OR,"",,Kate Brown,D,true,classic,0.8563,50.71,45.33,56.13
+2018-10-21,OR,"",,Knute Buehler,R,false,classic,0.1437,42.66,37.2,47.95
+2018-10-21,OR,"",,Others,,false,classic,0.0,6.62,2.95,10.9
+2018-10-21,PA,"",,Tom Wolf,D,true,classic,0.9884,56.84,52.59,61.05
+2018-10-21,PA,"",,Scott Wagner,R,false,classic,0.0116,41.11,36.87,45.33
+2018-10-21,PA,"",,Others,,false,classic,0.0,2.05,0.56,3.98
+2018-10-21,RI,"",,Gina Raimondo,D,true,classic,0.9728,56.02,49.36,62.57
+2018-10-21,RI,"",,Allan Fung,R,false,classic,0.0272,36.47,29.77,43.12
+2018-10-21,RI,"",,Others,,false,classic,0.0,7.5,3.54,12.07
+2018-10-21,SC,"",,Henry McMaster,R,true,classic,0.9817,57.93,53.3,62.6
+2018-10-21,SC,"",,James Smith,D,false,classic,0.0183,42.07,37.4,46.7
+2018-10-21,SD,"",,Kristi Noem,R,false,classic,0.8872,54.3,48.53,60.12
+2018-10-21,SD,"",,Billie Sutton,D,false,classic,0.1128,43.61,37.84,49.38
+2018-10-21,SD,"",,Kurt Evans,L,false,classic,0.0,2.09,0.57,4.04
+2018-10-21,TN,"",,Bill Lee,R,false,classic,0.9699,53.81,48.64,58.86
+2018-10-21,TN,"",,Karl Dean,D,false,classic,0.0301,39.72,34.58,44.82
+2018-10-21,TN,"",,Others,,false,classic,0.0,6.47,2.86,10.67
+2018-10-21,TX,"",,Greg Abbott,R,true,classic,0.9956,58.42,54.15,62.64
+2018-10-21,TX,"",,Lupe Valdez,D,false,classic,0.0044,39.69,35.42,43.92
+2018-10-21,TX,"",,Mark Tippetts,L,false,classic,0.0,1.89,0.5,3.7
+2018-10-21,VT,"",,Phil Scott,R,true,classic,0.9568,53.52,48.05,58.86
+2018-10-21,VT,"",,Christine Hallquist,D,false,classic,0.0432,39.94,34.52,45.28
+2018-10-21,VT,"",,Others,,false,classic,0.0,6.54,2.91,10.77
+2018-10-21,WI,"",,Tony Evers,D,false,classic,0.6275,49.52,44.42,54.59
+2018-10-21,WI,"",,Scott Walker,R,true,classic,0.3725,47.09,41.96,52.17
+2018-10-21,WI,"",,Others,,false,classic,0.0,3.39,1.14,6.16
+2018-10-21,WY,"",,Mark Gordon,R,false,classic,0.9932,60.12,54.03,66.14
+2018-10-21,WY,"",,Mary Throne,D,false,classic,0.0068,35.32,29.26,41.35
+2018-10-21,WY,"",,Others,,false,classic,0.0,4.55,1.74,7.93
+2018-10-22,AK,"",,Mike Dunleavy,R,false,classic,0.6534,50.43,44.88,56.04
+2018-10-22,AK,"",,Mark Begich,D,false,classic,0.3466,47.16,41.54,52.66
+2018-10-22,AK,"",,Others,,false,classic,0.0,2.4,0.7,4.57
+2018-10-22,AL,"",,Kay Ivey,R,true,classic,0.9862,58.4,53.85,63.0
+2018-10-22,AL,"",,Walt Maddox,D,false,classic,0.0138,41.6,37.0,46.15
+2018-10-22,AR,"",,Asa Hutchinson,R,true,classic,0.9993,63.59,58.23,68.92
+2018-10-22,AR,"",,Jared Henderson,D,false,classic,0.0007,33.92,28.58,39.27
+2018-10-22,AR,"",,Mark West,L,false,classic,0.0,2.49,0.74,4.7
+2018-10-22,AZ,"",,Doug Ducey,R,true,classic,0.9468,54.58,50.03,59.16
+2018-10-22,AZ,"",,David Garcia,D,false,classic,0.0532,43.29,38.67,47.82
+2018-10-22,AZ,"",,Angel Torres,G,false,classic,0.0,2.13,0.58,4.09
+2018-10-22,CA,"",,Gavin Newsom,D,false,classic,0.9896,59.6,54.68,64.57
+2018-10-22,CA,"",,John Cox,R,false,classic,0.0104,40.4,35.43,45.32
+2018-10-22,CO,"",,Jared Polis,D,false,classic,0.9555,55.07,50.61,59.56
+2018-10-22,CO,"",,Walker Stapleton,R,false,classic,0.0445,43.2,38.69,47.67
+2018-10-22,CO,"",,Others,,false,classic,0.0,1.72,0.43,3.4
+2018-10-22,CT,"",,Ned Lamont,D,false,classic,0.8286,52.02,47.3,56.63
+2018-10-22,CT,"",,Bob Stefanowski,R,false,classic,0.1714,45.44,40.81,50.08
+2018-10-22,CT,"",,Others,,false,classic,0.0,2.54,0.76,4.8
+2018-10-22,FL,"",,Andrew Gillum,D,false,classic,0.7753,51.15,46.85,55.44
+2018-10-22,FL,"",,Ron DeSantis,R,false,classic,0.2247,46.34,42.02,50.61
+2018-10-22,FL,"",,Others,,false,classic,0.0,2.51,0.75,4.72
+2018-10-22,GA,"",,Brian Kemp,R,false,classic,0.5588,49.65,45.83,53.53
+2018-10-22,GA,"",,Stacey Abrams,D,false,classic,0.4412,49.15,45.27,52.95
+2018-10-22,GA,"",,Ted Metz,L,false,classic,0.0,1.2,0.26,2.44
+2018-10-22,HI,"",,David Ige,D,true,classic,0.998,63.14,57.12,69.14
+2018-10-22,HI,"",,Andria Tupola,R,false,classic,0.002,33.21,27.19,39.2
+2018-10-22,HI,"",,Others,,false,classic,0.0,3.65,1.29,6.55
+2018-10-22,IA,"",,Fred Hubbell,D,false,classic,0.8538,52.57,47.27,57.81
+2018-10-22,IA,"",,Kim Reynolds,R,true,classic,0.1462,44.23,38.96,49.49
+2018-10-22,IA,"",,Others,,false,classic,0.0,3.2,1.05,5.83
+2018-10-22,ID,"",,Brad Little,R,false,classic,0.9523,54.1,48.11,60.03
+2018-10-22,ID,"",,Paulette Jordan,D,false,classic,0.0477,39.43,33.47,45.28
+2018-10-22,ID,"",,Others,,false,classic,0.0,6.47,2.88,10.64
+2018-10-22,IL,"",,JB Pritzker,D,false,classic,0.9114,53.98,47.56,60.36
+2018-10-22,IL,"",,Bruce Rauner,R,true,classic,0.0886,41.01,34.58,47.37
+2018-10-22,IL,"",,Others,,false,classic,0.0,5.01,2.01,8.6
+2018-10-22,KS,"",,Kris Kobach,R,false,classic,0.6031,45.14,39.47,50.71
+2018-10-22,KS,"",,Laura Kelly,D,false,classic,0.3964,43.1,37.49,48.64
+2018-10-22,KS,"",,Greg Orman,I,false,classic,0.0004,9.89,5.26,15.15
+2018-10-22,KS,"",,Others,,false,classic,0.0,1.87,0.49,3.64
+2018-10-22,MA,"",,Charlie Baker,R,true,classic,0.9973,64.5,58.67,70.39
+2018-10-22,MA,"",,Jay Gonzalez,D,false,classic,0.0027,35.5,29.61,41.33
+2018-10-22,MD,"",,Larry Hogan,R,true,classic,0.9907,57.19,52.62,61.73
+2018-10-22,MD,"",,Ben Jealous,D,false,classic,0.0093,39.92,35.35,44.49
+2018-10-22,MD,"",,Others,,false,classic,0.0,2.89,0.91,5.34
+2018-10-22,ME,"",,Janet Mills,D,false,classic,0.906,54.19,48.84,59.52
+2018-10-22,ME,"",,Shawn Moody,R,false,classic,0.094,43.42,38.08,48.74
+2018-10-22,ME,"",,Others,,false,classic,0.0,2.39,0.7,4.53
+2018-10-22,MI,"",,Gretchen Whitmer,D,false,classic,0.9577,54.41,49.87,58.88
+2018-10-22,MI,"",,Bill Schuette,R,false,classic,0.0423,42.46,37.9,46.97
+2018-10-22,MI,"",,Others,,false,classic,0.0,3.13,1.02,5.7
+2018-10-22,MN,"",,Tim Walz,D,false,classic,0.8973,53.51,48.6,58.37
+2018-10-22,MN,"",,Jeff Johnson,R,false,classic,0.1027,44.1,39.21,49.0
+2018-10-22,MN,"",,Others,,false,classic,0.0,2.39,0.7,4.53
+2018-10-22,NE,"",,Pete Ricketts,R,true,classic,0.9899,61.17,55.58,66.79
+2018-10-22,NE,"",,Bob Krist,D,false,classic,0.0101,38.83,33.21,44.42
+2018-10-22,NH,"",,Chris Sununu,R,true,classic,0.967,56.14,51.27,60.96
+2018-10-22,NH,"",,Molly Kelly,D,false,classic,0.033,41.89,37.05,46.78
+2018-10-22,NH,"",,Jilletta Jarvis,L,false,classic,0.0,1.97,0.53,3.84
+2018-10-22,NM,"",,Michelle Lujan Grisham,D,false,classic,0.8734,53.87,49.53,58.16
+2018-10-22,NM,"",,Steve Pearce,R,false,classic,0.1266,46.13,41.84,50.47
+2018-10-22,NV,"",,Adam Laxalt,R,false,classic,0.5389,49.0,44.69,53.3
+2018-10-22,NV,"",,Steve Sisolak,D,false,classic,0.4611,48.43,44.09,52.71
+2018-10-22,NV,"",,Others,,false,classic,0.0,2.57,0.77,4.82
+2018-10-22,NY,"",,Andrew Cuomo,D,true,classic,0.9972,59.17,54.35,63.92
+2018-10-22,NY,"",,Marc Molinaro,R,false,classic,0.0028,37.06,32.21,41.83
+2018-10-22,NY,"",,Others,,false,classic,0.0,3.77,1.33,6.74
+2018-10-22,OH,"",,Mike DeWine,R,false,classic,0.5595,49.46,45.06,53.78
+2018-10-22,OH,"",,Richard Cordray,D,false,classic,0.4405,48.47,44.13,52.83
+2018-10-22,OH,"",,Others,,false,classic,0.0,2.07,0.56,3.99
+2018-10-22,OK,"",,Kevin Stitt,R,false,classic,0.8001,52.15,47.29,57.01
+2018-10-22,OK,"",,Drew Edmondson,D,false,classic,0.1999,46.04,41.2,50.88
+2018-10-22,OK,"",,Chris Powell,L,false,classic,0.0,1.81,0.47,3.55
+2018-10-22,OR,"",,Kate Brown,D,true,classic,0.8584,50.79,45.35,56.1
+2018-10-22,OR,"",,Knute Buehler,R,false,classic,0.1416,42.62,37.17,47.97
+2018-10-22,OR,"",,Others,,false,classic,0.0,6.59,2.95,10.84
+2018-10-22,PA,"",,Tom Wolf,D,true,classic,0.9896,56.91,52.68,61.12
+2018-10-22,PA,"",,Scott Wagner,R,false,classic,0.0104,41.05,36.81,45.28
+2018-10-22,PA,"",,Others,,false,classic,0.0,2.04,0.56,3.92
+2018-10-22,RI,"",,Gina Raimondo,D,true,classic,0.9727,56.11,49.41,62.67
+2018-10-22,RI,"",,Allan Fung,R,false,classic,0.0273,36.43,29.77,43.04
+2018-10-22,RI,"",,Others,,false,classic,0.0,7.46,3.48,12.0
+2018-10-22,SC,"",,Henry McMaster,R,true,classic,0.9815,57.89,53.3,62.53
+2018-10-22,SC,"",,James Smith,D,false,classic,0.0185,42.11,37.47,46.7
+2018-10-22,SD,"",,Kristi Noem,R,false,classic,0.8852,54.24,48.47,59.99
+2018-10-22,SD,"",,Billie Sutton,D,false,classic,0.1148,43.69,37.89,49.41
+2018-10-22,SD,"",,Kurt Evans,L,false,classic,0.0,2.08,0.57,4.0
+2018-10-22,TN,"",,Bill Lee,R,false,classic,0.97,53.77,48.69,58.86
+2018-10-22,TN,"",,Karl Dean,D,false,classic,0.03,39.78,34.61,44.83
+2018-10-22,TN,"",,Others,,false,classic,0.0,6.45,2.87,10.6
+2018-10-22,TX,"",,Greg Abbott,R,true,classic,0.9951,58.37,54.12,62.65
+2018-10-22,TX,"",,Lupe Valdez,D,false,classic,0.0049,39.74,35.45,43.96
+2018-10-22,TX,"",,Mark Tippetts,L,false,classic,0.0,1.89,0.49,3.68
+2018-10-22,VT,"",,Phil Scott,R,true,classic,0.9404,51.46,45.64,57.12
+2018-10-22,VT,"",,Christine Hallquist,D,false,classic,0.0596,38.89,33.13,44.57
+2018-10-22,VT,"",,Others,,false,classic,0.0,9.66,5.05,14.84
+2018-10-22,WI,"",,Tony Evers,D,false,classic,0.6311,49.59,44.5,54.59
+2018-10-22,WI,"",,Scott Walker,R,true,classic,0.3689,47.04,41.95,52.13
+2018-10-22,WI,"",,Others,,false,classic,0.0,3.37,1.15,6.09
+2018-10-22,WY,"",,Mark Gordon,R,false,classic,0.9938,60.04,53.92,66.1
+2018-10-22,WY,"",,Mary Throne,D,false,classic,0.0062,35.4,29.31,41.5
+2018-10-22,WY,"",,Others,,false,classic,0.0,4.55,1.75,7.91
 2018-10-11,AK,"",,Mike Dunleavy,R,false,deluxe,0.7383,39.35,32.19,46.44
 2018-10-11,AK,"",,Mark Begich,D,false,deluxe,0.2229,31.48,22.87,40.11
 2018-10-11,AK,"",,Bill Walker,U,true,deluxe,0.0388,25.74,19.22,32.54
@@ -1556,109 +1762,315 @@ forecastdate,state,district,special,candidate,party,incumbent,model,win_probabil
 2018-10-19,WY,"",,Mark Gordon,R,false,deluxe,0.9944,60.2,54.23,66.15
 2018-10-19,WY,"",,Mary Throne,D,false,deluxe,0.0056,35.25,29.18,41.26
 2018-10-19,WY,"",,Others,,false,deluxe,0.0,4.55,1.72,7.97
-2018-10-20,AK,"",,Mike Dunleavy,R,false,deluxe,0.6871,50.78,45.31,56.29
-2018-10-20,AK,"",,Mark Begich,D,false,deluxe,0.3129,46.81,41.28,52.3
-2018-10-20,AK,"",,Others,,false,deluxe,0.0,2.41,0.7,4.57
-2018-10-20,AL,"",,Kay Ivey,R,true,deluxe,0.9916,59.23,54.57,63.88
-2018-10-20,AL,"",,Walt Maddox,D,false,deluxe,0.0084,40.77,36.12,45.43
-2018-10-20,AR,"",,Asa Hutchinson,R,true,deluxe,0.9992,63.76,58.58,68.98
-2018-10-20,AR,"",,Jared Henderson,D,false,deluxe,0.0008,33.77,28.57,38.95
-2018-10-20,AR,"",,Mark West,L,false,deluxe,0.0,2.47,0.72,4.68
-2018-10-20,AZ,"",,Doug Ducey,R,true,deluxe,0.9536,54.61,50.23,59.02
-2018-10-20,AZ,"",,David Garcia,D,false,deluxe,0.0464,43.27,38.86,47.63
+2018-10-20,AK,"",,Mike Dunleavy,R,false,deluxe,0.6862,50.79,45.3,56.31
+2018-10-20,AK,"",,Mark Begich,D,false,deluxe,0.3138,46.81,41.23,52.27
+2018-10-20,AK,"",,Others,,false,deluxe,0.0,2.41,0.69,4.55
+2018-10-20,AL,"",,Kay Ivey,R,true,deluxe,0.9922,59.24,54.67,63.87
+2018-10-20,AL,"",,Walt Maddox,D,false,deluxe,0.0078,40.76,36.13,45.33
+2018-10-20,AR,"",,Asa Hutchinson,R,true,deluxe,0.999,63.76,58.58,68.95
+2018-10-20,AR,"",,Jared Henderson,D,false,deluxe,0.001,33.76,28.55,38.9
+2018-10-20,AR,"",,Mark West,L,false,deluxe,0.0,2.47,0.73,4.65
+2018-10-20,AZ,"",,Doug Ducey,R,true,deluxe,0.9543,54.61,50.27,59.02
+2018-10-20,AZ,"",,David Garcia,D,false,deluxe,0.0457,43.27,38.84,47.59
 2018-10-20,AZ,"",,Angel Torres,G,false,deluxe,0.0,2.12,0.58,4.07
-2018-10-20,CA,"",,Gavin Newsom,D,false,deluxe,0.9926,59.98,55.05,64.86
-2018-10-20,CA,"",,John Cox,R,false,deluxe,0.0074,40.02,35.14,44.95
-2018-10-20,CO,"",,Jared Polis,D,false,deluxe,0.9017,53.5,48.56,58.48
-2018-10-20,CO,"",,Walker Stapleton,R,false,deluxe,0.0983,43.84,38.88,48.79
-2018-10-20,CO,"",,Others,,false,deluxe,0.0,2.66,0.81,4.96
-2018-10-20,CT,"",,Ned Lamont,D,false,deluxe,0.8152,51.76,47.23,56.26
-2018-10-20,CT,"",,Bob Stefanowski,R,false,deluxe,0.1848,45.69,41.15,50.25
-2018-10-20,CT,"",,Others,,false,deluxe,0.0,2.54,0.75,4.8
-2018-10-20,FL,"",,Andrew Gillum,D,false,deluxe,0.6977,50.3,46.11,54.43
-2018-10-20,FL,"",,Ron DeSantis,R,false,deluxe,0.3023,47.15,42.98,51.32
-2018-10-20,FL,"",,Others,,false,deluxe,0.0,2.55,0.76,4.78
-2018-10-20,GA,"",,Brian Kemp,R,false,deluxe,0.5653,49.71,45.99,53.4
-2018-10-20,GA,"",,Stacey Abrams,D,false,deluxe,0.4346,49.09,45.36,52.8
-2018-10-20,GA,"",,Ted Metz,L,false,deluxe,0.0,1.2,0.26,2.45
-2018-10-20,HI,"",,David Ige,D,true,deluxe,0.9985,63.2,57.35,69.04
-2018-10-20,HI,"",,Andria Tupola,R,false,deluxe,0.0015,33.16,27.3,39.01
-2018-10-20,HI,"",,Others,,false,deluxe,0.0,3.64,1.27,6.57
-2018-10-20,IA,"",,Fred Hubbell,D,false,deluxe,0.7675,51.28,45.98,56.55
-2018-10-20,IA,"",,Kim Reynolds,R,true,deluxe,0.2325,45.54,40.25,50.77
-2018-10-20,IA,"",,Others,,false,deluxe,0.0,3.18,1.05,5.82
-2018-10-20,ID,"",,Brad Little,R,false,deluxe,0.9717,55.37,49.36,61.36
-2018-10-20,ID,"",,Paulette Jordan,D,false,deluxe,0.0283,38.15,32.12,44.05
-2018-10-20,ID,"",,Others,,false,deluxe,0.0,6.48,2.86,10.72
-2018-10-20,IL,"",,JB Pritzker,D,false,deluxe,0.9263,53.93,47.94,59.88
-2018-10-20,IL,"",,Bruce Rauner,R,true,deluxe,0.0737,41.07,35.09,46.97
-2018-10-20,IL,"",,Others,,false,deluxe,0.0,5.0,1.99,8.62
-2018-10-20,KS,"",,Kris Kobach,R,false,deluxe,0.6356,45.34,39.84,50.7
-2018-10-20,KS,"",,Laura Kelly,D,false,deluxe,0.364,42.91,37.43,48.28
-2018-10-20,KS,"",,Greg Orman,I,false,deluxe,0.0004,9.89,5.2,15.13
-2018-10-20,KS,"",,Others,,false,deluxe,0.0,1.86,0.47,3.64
-2018-10-20,MA,"",,Charlie Baker,R,true,deluxe,0.998,64.47,58.81,70.1
-2018-10-20,MA,"",,Jay Gonzalez,D,false,deluxe,0.002,35.53,29.9,41.19
-2018-10-20,MD,"",,Larry Hogan,R,true,deluxe,0.983,56.25,51.6,60.79
-2018-10-20,MD,"",,Ben Jealous,D,false,deluxe,0.017,40.87,36.31,45.43
-2018-10-20,MD,"",,Others,,false,deluxe,0.0,2.89,0.91,5.33
-2018-10-20,ME,"",,Janet Mills,D,false,deluxe,0.8359,52.74,47.4,58.07
-2018-10-20,ME,"",,Shawn Moody,R,false,deluxe,0.1641,44.87,39.53,50.15
-2018-10-20,ME,"",,Others,,false,deluxe,0.0,2.39,0.69,4.54
-2018-10-20,MI,"",,Gretchen Whitmer,D,false,deluxe,0.9468,53.92,49.4,58.32
-2018-10-20,MI,"",,Bill Schuette,R,false,deluxe,0.0532,42.95,38.5,47.45
-2018-10-20,MI,"",,Others,,false,deluxe,0.0,3.13,1.02,5.73
-2018-10-20,MN,"",,Tim Walz,D,false,deluxe,0.9296,54.17,49.45,58.83
-2018-10-20,MN,"",,Jeff Johnson,R,false,deluxe,0.0704,43.55,38.89,48.23
-2018-10-20,MN,"",,Others,,false,deluxe,0.0,2.28,0.65,4.35
-2018-10-20,NE,"",,Pete Ricketts,R,true,deluxe,0.9922,61.37,55.84,66.92
-2018-10-20,NE,"",,Bob Krist,D,false,deluxe,0.0078,38.63,33.08,44.16
-2018-10-20,NH,"",,Chris Sununu,R,true,deluxe,0.9451,55.07,50.14,59.93
-2018-10-20,NH,"",,Molly Kelly,D,false,deluxe,0.0549,42.96,38.04,47.85
-2018-10-20,NH,"",,Jilletta Jarvis,L,false,deluxe,0.0,1.97,0.53,3.8
-2018-10-20,NM,"",,Michelle Lujan Grisham,D,false,deluxe,0.874,53.77,49.55,57.99
-2018-10-20,NM,"",,Steve Pearce,R,false,deluxe,0.126,46.23,42.01,50.45
-2018-10-20,NV,"",,Steve Sisolak,D,false,deluxe,0.5204,48.87,44.63,53.08
-2018-10-20,NV,"",,Adam Laxalt,R,false,deluxe,0.4796,48.56,44.31,52.8
-2018-10-20,NV,"",,Others,,false,deluxe,0.0,2.57,0.76,4.85
-2018-10-20,NY,"",,Andrew Cuomo,D,true,deluxe,0.998,59.52,54.74,64.21
-2018-10-20,NY,"",,Marc Molinaro,R,false,deluxe,0.002,36.7,31.99,41.42
+2018-10-20,CA,"",,Gavin Newsom,D,false,deluxe,0.9918,59.98,55.1,64.89
+2018-10-20,CA,"",,John Cox,R,false,deluxe,0.0082,40.02,35.11,44.9
+2018-10-20,CO,"",,Jared Polis,D,false,deluxe,0.9009,53.5,48.53,58.45
+2018-10-20,CO,"",,Walker Stapleton,R,false,deluxe,0.0991,43.84,38.87,48.81
+2018-10-20,CO,"",,Others,,false,deluxe,0.0,2.66,0.8,4.99
+2018-10-20,CT,"",,Ned Lamont,D,false,deluxe,0.8151,51.76,47.17,56.28
+2018-10-20,CT,"",,Bob Stefanowski,R,false,deluxe,0.1849,45.7,41.14,50.26
+2018-10-20,CT,"",,Others,,false,deluxe,0.0,2.54,0.75,4.77
+2018-10-20,FL,"",,Andrew Gillum,D,false,deluxe,0.6984,50.3,46.12,54.44
+2018-10-20,FL,"",,Ron DeSantis,R,false,deluxe,0.3016,47.15,42.95,51.29
+2018-10-20,FL,"",,Others,,false,deluxe,0.0,2.55,0.75,4.79
+2018-10-20,GA,"",,Brian Kemp,R,false,deluxe,0.5684,49.71,45.99,53.45
+2018-10-20,GA,"",,Stacey Abrams,D,false,deluxe,0.4316,49.09,45.34,52.82
+2018-10-20,GA,"",,Ted Metz,L,false,deluxe,0.0,1.2,0.26,2.46
+2018-10-20,HI,"",,David Ige,D,true,deluxe,0.9988,63.2,57.36,68.97
+2018-10-20,HI,"",,Andria Tupola,R,false,deluxe,0.0012,33.16,27.36,39.0
+2018-10-20,HI,"",,Others,,false,deluxe,0.0,3.64,1.27,6.56
+2018-10-20,IA,"",,Fred Hubbell,D,false,deluxe,0.7699,51.28,45.99,56.52
+2018-10-20,IA,"",,Kim Reynolds,R,true,deluxe,0.2301,45.54,40.26,50.82
+2018-10-20,IA,"",,Others,,false,deluxe,0.0,3.18,1.06,5.78
+2018-10-20,ID,"",,Brad Little,R,false,deluxe,0.9726,55.37,49.36,61.28
+2018-10-20,ID,"",,Paulette Jordan,D,false,deluxe,0.0274,38.15,32.15,44.07
+2018-10-20,ID,"",,Others,,false,deluxe,0.0,6.48,2.87,10.63
+2018-10-20,IL,"",,JB Pritzker,D,false,deluxe,0.9259,53.92,47.94,59.91
+2018-10-20,IL,"",,Bruce Rauner,R,true,deluxe,0.0741,41.07,35.09,46.96
+2018-10-20,IL,"",,Others,,false,deluxe,0.0,5.0,2.0,8.62
+2018-10-20,KS,"",,Kris Kobach,R,false,deluxe,0.6368,45.35,39.87,50.75
+2018-10-20,KS,"",,Laura Kelly,D,false,deluxe,0.3627,42.9,37.42,48.26
+2018-10-20,KS,"",,Greg Orman,I,false,deluxe,0.0005,9.89,5.2,15.13
+2018-10-20,KS,"",,Others,,false,deluxe,0.0,1.86,0.48,3.62
+2018-10-20,MA,"",,Charlie Baker,R,true,deluxe,0.9982,64.47,58.87,70.1
+2018-10-20,MA,"",,Jay Gonzalez,D,false,deluxe,0.0018,35.53,29.9,41.13
+2018-10-20,MD,"",,Larry Hogan,R,true,deluxe,0.9836,56.25,51.63,60.86
+2018-10-20,MD,"",,Ben Jealous,D,false,deluxe,0.0164,40.87,36.2,45.46
+2018-10-20,MD,"",,Others,,false,deluxe,0.0,2.89,0.91,5.34
+2018-10-20,ME,"",,Janet Mills,D,false,deluxe,0.834,52.74,47.38,58.03
+2018-10-20,ME,"",,Shawn Moody,R,false,deluxe,0.166,44.87,39.54,50.2
+2018-10-20,ME,"",,Others,,false,deluxe,0.0,2.39,0.69,4.53
+2018-10-20,MI,"",,Gretchen Whitmer,D,false,deluxe,0.9471,53.92,49.43,58.39
+2018-10-20,MI,"",,Bill Schuette,R,false,deluxe,0.0529,42.95,38.42,47.4
+2018-10-20,MI,"",,Others,,false,deluxe,0.0,3.13,1.02,5.74
+2018-10-20,MN,"",,Tim Walz,D,false,deluxe,0.9307,54.17,49.48,58.87
+2018-10-20,MN,"",,Jeff Johnson,R,false,deluxe,0.0693,43.55,38.86,48.22
+2018-10-20,MN,"",,Others,,false,deluxe,0.0,2.28,0.65,4.36
+2018-10-20,NE,"",,Pete Ricketts,R,true,deluxe,0.9912,61.37,55.81,66.96
+2018-10-20,NE,"",,Bob Krist,D,false,deluxe,0.0088,38.63,33.04,44.19
+2018-10-20,NH,"",,Chris Sununu,R,true,deluxe,0.9455,55.07,50.19,59.95
+2018-10-20,NH,"",,Molly Kelly,D,false,deluxe,0.0545,42.96,38.07,47.81
+2018-10-20,NH,"",,Jilletta Jarvis,L,false,deluxe,0.0,1.97,0.52,3.84
+2018-10-20,NM,"",,Michelle Lujan Grisham,D,false,deluxe,0.8721,53.77,49.51,57.94
+2018-10-20,NM,"",,Steve Pearce,R,false,deluxe,0.1279,46.23,42.06,50.49
+2018-10-20,NV,"",,Steve Sisolak,D,false,deluxe,0.5151,48.87,44.57,53.11
+2018-10-20,NV,"",,Adam Laxalt,R,false,deluxe,0.4849,48.56,44.28,52.8
+2018-10-20,NV,"",,Others,,false,deluxe,0.0,2.57,0.78,4.84
+2018-10-20,NY,"",,Andrew Cuomo,D,true,deluxe,0.998,59.52,54.77,64.2
+2018-10-20,NY,"",,Marc Molinaro,R,false,deluxe,0.002,36.71,31.97,41.4
 2018-10-20,NY,"",,Others,,false,deluxe,0.0,3.77,1.33,6.75
-2018-10-20,OH,"",,Mike DeWine,R,false,deluxe,0.5583,49.45,45.15,53.65
-2018-10-20,OH,"",,Richard Cordray,D,false,deluxe,0.4417,48.49,44.25,52.74
-2018-10-20,OH,"",,Others,,false,deluxe,0.0,2.07,0.56,4.01
-2018-10-20,OK,"",,Kevin Stitt,R,false,deluxe,0.8087,52.15,47.49,56.82
-2018-10-20,OK,"",,Drew Edmondson,D,false,deluxe,0.1913,46.03,41.35,50.67
-2018-10-20,OK,"",,Chris Powell,L,false,deluxe,0.0,1.82,0.47,3.55
-2018-10-20,OR,"",,Kate Brown,D,true,deluxe,0.8329,50.26,44.98,55.5
-2018-10-20,OR,"",,Knute Buehler,R,false,deluxe,0.1671,43.14,37.87,48.33
-2018-10-20,OR,"",,Others,,false,deluxe,0.0,6.59,2.95,10.84
-2018-10-20,PA,"",,Tom Wolf,D,true,deluxe,0.9905,56.94,52.75,61.05
-2018-10-20,PA,"",,Scott Wagner,R,false,deluxe,0.0095,41.02,36.91,45.18
-2018-10-20,PA,"",,Others,,false,deluxe,0.0,2.03,0.55,3.93
-2018-10-20,RI,"",,Gina Raimondo,D,true,deluxe,0.9427,54.04,47.37,60.63
-2018-10-20,RI,"",,Allan Fung,R,false,deluxe,0.0573,38.5,31.81,45.05
-2018-10-20,RI,"",,Others,,false,deluxe,0.0,7.47,3.47,12.0
-2018-10-20,SC,"",,Henry McMaster,R,true,deluxe,0.9861,58.32,53.81,62.91
-2018-10-20,SC,"",,James Smith,D,false,deluxe,0.0139,41.68,37.09,46.19
-2018-10-20,SD,"",,Kristi Noem,R,false,deluxe,0.8298,53.15,47.39,58.86
-2018-10-20,SD,"",,Billie Sutton,D,false,deluxe,0.1701,44.77,39.0,50.54
-2018-10-20,SD,"",,Kurt Evans,L,false,deluxe,0.0,2.08,0.57,3.99
-2018-10-20,TN,"",,Bill Lee,R,false,deluxe,0.9758,53.95,48.99,58.84
-2018-10-20,TN,"",,Karl Dean,D,false,deluxe,0.0242,39.61,34.6,44.53
-2018-10-20,TN,"",,Others,,false,deluxe,0.0,6.44,2.83,10.63
-2018-10-20,TX,"",,Greg Abbott,R,true,deluxe,0.9971,58.88,54.69,63.08
-2018-10-20,TX,"",,Lupe Valdez,D,false,deluxe,0.0029,39.23,34.99,43.41
-2018-10-20,TX,"",,Mark Tippetts,L,false,deluxe,0.0,1.88,0.5,3.67
-2018-10-20,VT,"",,Phil Scott,R,true,deluxe,0.976,55.01,49.4,60.52
-2018-10-20,VT,"",,Christine Hallquist,D,false,deluxe,0.024,38.49,32.86,44.07
-2018-10-20,VT,"",,Others,,false,deluxe,0.0,6.5,2.89,10.68
-2018-10-20,WI,"",,Tony Evers,D,false,deluxe,0.6018,49.26,44.36,54.18
-2018-10-20,WI,"",,Scott Walker,R,true,deluxe,0.3982,47.37,42.4,52.23
-2018-10-20,WI,"",,Others,,false,deluxe,0.0,3.37,1.13,6.12
-2018-10-20,WY,"",,Mark Gordon,R,false,deluxe,0.9946,60.16,54.22,66.15
-2018-10-20,WY,"",,Mary Throne,D,false,deluxe,0.0054,35.29,29.22,41.23
+2018-10-20,OH,"",,Mike DeWine,R,false,deluxe,0.5618,49.45,45.2,53.72
+2018-10-20,OH,"",,Richard Cordray,D,false,deluxe,0.4382,48.48,44.19,52.73
+2018-10-20,OH,"",,Others,,false,deluxe,0.0,2.07,0.56,3.99
+2018-10-20,OK,"",,Kevin Stitt,R,false,deluxe,0.807,52.16,47.49,56.83
+2018-10-20,OK,"",,Drew Edmondson,D,false,deluxe,0.193,46.03,41.34,50.69
+2018-10-20,OK,"",,Chris Powell,L,false,deluxe,0.0,1.82,0.47,3.58
+2018-10-20,OR,"",,Kate Brown,D,true,deluxe,0.8313,50.26,44.96,55.47
+2018-10-20,OR,"",,Knute Buehler,R,false,deluxe,0.1687,43.14,37.86,48.39
+2018-10-20,OR,"",,Others,,false,deluxe,0.0,6.59,2.92,10.81
+2018-10-20,PA,"",,Tom Wolf,D,true,deluxe,0.9903,56.94,52.78,61.06
+2018-10-20,PA,"",,Scott Wagner,R,false,deluxe,0.0097,41.02,36.89,45.2
+2018-10-20,PA,"",,Others,,false,deluxe,0.0,2.03,0.55,3.92
+2018-10-20,RI,"",,Gina Raimondo,D,true,deluxe,0.9428,54.04,47.38,60.62
+2018-10-20,RI,"",,Allan Fung,R,false,deluxe,0.0572,38.5,31.86,45.1
+2018-10-20,RI,"",,Others,,false,deluxe,0.0,7.47,3.48,12.02
+2018-10-20,SC,"",,Henry McMaster,R,true,deluxe,0.9854,58.33,53.74,62.88
+2018-10-20,SC,"",,James Smith,D,false,deluxe,0.0146,41.67,37.12,46.26
+2018-10-20,SD,"",,Kristi Noem,R,false,deluxe,0.8354,53.15,47.46,58.91
+2018-10-20,SD,"",,Billie Sutton,D,false,deluxe,0.1646,44.77,38.98,50.46
+2018-10-20,SD,"",,Kurt Evans,L,false,deluxe,0.0,2.08,0.57,3.97
+2018-10-20,TN,"",,Bill Lee,R,false,deluxe,0.9783,53.95,49.07,58.81
+2018-10-20,TN,"",,Karl Dean,D,false,deluxe,0.0217,39.61,34.66,44.48
+2018-10-20,TN,"",,Others,,false,deluxe,0.0,6.44,2.83,10.61
+2018-10-20,TX,"",,Greg Abbott,R,true,deluxe,0.9973,58.88,54.75,63.04
+2018-10-20,TX,"",,Lupe Valdez,D,false,deluxe,0.0027,39.23,35.06,43.36
+2018-10-20,TX,"",,Mark Tippetts,L,false,deluxe,0.0,1.88,0.49,3.67
+2018-10-20,VT,"",,Phil Scott,R,true,deluxe,0.9761,55.02,49.44,60.49
+2018-10-20,VT,"",,Christine Hallquist,D,false,deluxe,0.0239,38.48,32.9,44.01
+2018-10-20,VT,"",,Others,,false,deluxe,0.0,6.5,2.92,10.71
+2018-10-20,WI,"",,Tony Evers,D,false,deluxe,0.6068,49.25,44.33,54.22
+2018-10-20,WI,"",,Scott Walker,R,true,deluxe,0.3932,47.38,42.44,52.24
+2018-10-20,WI,"",,Others,,false,deluxe,0.0,3.37,1.12,6.16
+2018-10-20,WY,"",,Mark Gordon,R,false,deluxe,0.9948,60.16,54.19,66.09
+2018-10-20,WY,"",,Mary Throne,D,false,deluxe,0.0052,35.29,29.33,41.26
 2018-10-20,WY,"",,Others,,false,deluxe,0.0,4.55,1.73,7.96
+2018-10-21,AK,"",,Mike Dunleavy,R,false,deluxe,0.6841,50.77,45.26,56.18
+2018-10-21,AK,"",,Mark Begich,D,false,deluxe,0.3159,46.82,41.34,52.3
+2018-10-21,AK,"",,Others,,false,deluxe,0.0,2.42,0.7,4.55
+2018-10-21,AL,"",,Kay Ivey,R,true,deluxe,0.9919,59.21,54.64,63.79
+2018-10-21,AL,"",,Walt Maddox,D,false,deluxe,0.0081,40.79,36.21,45.36
+2018-10-21,AR,"",,Asa Hutchinson,R,true,deluxe,0.9991,63.55,58.42,68.66
+2018-10-21,AR,"",,Jared Henderson,D,false,deluxe,0.0009,33.94,28.81,39.04
+2018-10-21,AR,"",,Mark West,L,false,deluxe,0.0,2.51,0.76,4.72
+2018-10-21,AZ,"",,Doug Ducey,R,true,deluxe,0.9529,54.6,50.21,59.0
+2018-10-21,AZ,"",,David Garcia,D,false,deluxe,0.047,43.26,38.83,47.63
+2018-10-21,AZ,"",,Angel Torres,G,false,deluxe,0.0,2.14,0.59,4.09
+2018-10-21,CA,"",,Gavin Newsom,D,false,deluxe,0.9928,59.99,55.14,64.86
+2018-10-21,CA,"",,John Cox,R,false,deluxe,0.0072,40.01,35.14,44.86
+2018-10-21,CO,"",,Jared Polis,D,false,deluxe,0.9038,53.51,48.53,58.43
+2018-10-21,CO,"",,Walker Stapleton,R,false,deluxe,0.0962,43.81,38.87,48.71
+2018-10-21,CO,"",,Others,,false,deluxe,0.0,2.68,0.82,5.02
+2018-10-21,CT,"",,Ned Lamont,D,false,deluxe,0.8207,51.77,47.23,56.3
+2018-10-21,CT,"",,Bob Stefanowski,R,false,deluxe,0.1793,45.68,41.13,50.18
+2018-10-21,CT,"",,Others,,false,deluxe,0.0,2.55,0.77,4.79
+2018-10-21,FL,"",,Andrew Gillum,D,false,deluxe,0.7419,50.72,46.52,54.94
+2018-10-21,FL,"",,Ron DeSantis,R,false,deluxe,0.2581,46.75,42.52,50.95
+2018-10-21,FL,"",,Others,,false,deluxe,0.0,2.53,0.75,4.77
+2018-10-21,GA,"",,Brian Kemp,R,false,deluxe,0.5654,49.69,45.98,53.41
+2018-10-21,GA,"",,Stacey Abrams,D,false,deluxe,0.4346,49.1,45.39,52.81
+2018-10-21,GA,"",,Ted Metz,L,false,deluxe,0.0,1.21,0.26,2.47
+2018-10-21,HI,"",,David Ige,D,true,deluxe,0.9988,63.23,57.43,69.02
+2018-10-21,HI,"",,Andria Tupola,R,false,deluxe,0.0012,33.11,27.27,38.87
+2018-10-21,HI,"",,Others,,false,deluxe,0.0,3.66,1.28,6.57
+2018-10-21,IA,"",,Fred Hubbell,D,false,deluxe,0.7718,51.28,46.0,56.56
+2018-10-21,IA,"",,Kim Reynolds,R,true,deluxe,0.2282,45.51,40.19,50.77
+2018-10-21,IA,"",,Others,,false,deluxe,0.0,3.21,1.05,5.93
+2018-10-21,ID,"",,Brad Little,R,false,deluxe,0.9714,55.33,49.31,61.24
+2018-10-21,ID,"",,Paulette Jordan,D,false,deluxe,0.0286,38.14,32.12,44.1
+2018-10-21,ID,"",,Others,,false,deluxe,0.0,6.53,2.9,10.75
+2018-10-21,IL,"",,JB Pritzker,D,false,deluxe,0.9252,53.93,47.95,59.87
+2018-10-21,IL,"",,Bruce Rauner,R,true,deluxe,0.0748,41.04,35.09,47.04
+2018-10-21,IL,"",,Others,,false,deluxe,0.0,5.03,2.01,8.62
+2018-10-21,KS,"",,Kris Kobach,R,false,deluxe,0.6335,45.32,39.81,50.71
+2018-10-21,KS,"",,Laura Kelly,D,false,deluxe,0.3661,42.91,37.36,48.3
+2018-10-21,KS,"",,Greg Orman,I,false,deluxe,0.0004,9.89,5.21,15.14
+2018-10-21,KS,"",,Others,,false,deluxe,0.0,1.88,0.49,3.65
+2018-10-21,MA,"",,Charlie Baker,R,true,deluxe,0.9985,64.45,58.81,70.02
+2018-10-21,MA,"",,Jay Gonzalez,D,false,deluxe,0.0015,35.55,29.98,41.19
+2018-10-21,MD,"",,Larry Hogan,R,true,deluxe,0.9827,56.22,51.63,60.82
+2018-10-21,MD,"",,Ben Jealous,D,false,deluxe,0.0173,40.88,36.27,45.43
+2018-10-21,MD,"",,Others,,false,deluxe,0.0,2.9,0.92,5.37
+2018-10-21,ME,"",,Janet Mills,D,false,deluxe,0.8369,52.74,47.41,58.06
+2018-10-21,ME,"",,Shawn Moody,R,false,deluxe,0.1631,44.85,39.52,50.15
+2018-10-21,ME,"",,Others,,false,deluxe,0.0,2.41,0.69,4.57
+2018-10-21,MI,"",,Gretchen Whitmer,D,false,deluxe,0.9484,53.92,49.47,58.38
+2018-10-21,MI,"",,Bill Schuette,R,false,deluxe,0.0516,42.92,38.4,47.36
+2018-10-21,MI,"",,Others,,false,deluxe,0.0,3.15,1.02,5.77
+2018-10-21,MN,"",,Tim Walz,D,false,deluxe,0.9154,53.77,49.03,58.52
+2018-10-21,MN,"",,Jeff Johnson,R,false,deluxe,0.0846,43.84,39.06,48.59
+2018-10-21,MN,"",,Others,,false,deluxe,0.0,2.39,0.69,4.54
+2018-10-21,NE,"",,Pete Ricketts,R,true,deluxe,0.9918,61.33,55.79,66.8
+2018-10-21,NE,"",,Bob Krist,D,false,deluxe,0.0082,38.67,33.2,44.21
+2018-10-21,NH,"",,Chris Sununu,R,true,deluxe,0.9446,55.06,50.18,59.92
+2018-10-21,NH,"",,Molly Kelly,D,false,deluxe,0.0553,42.97,38.08,47.84
+2018-10-21,NH,"",,Jilletta Jarvis,L,false,deluxe,0.0,1.97,0.53,3.82
+2018-10-21,NM,"",,Michelle Lujan Grisham,D,false,deluxe,0.8753,53.79,49.55,58.03
+2018-10-21,NM,"",,Steve Pearce,R,false,deluxe,0.1247,46.21,41.97,50.45
+2018-10-21,NV,"",,Steve Sisolak,D,false,deluxe,0.5205,48.87,44.6,53.09
+2018-10-21,NV,"",,Adam Laxalt,R,false,deluxe,0.4795,48.55,44.31,52.75
+2018-10-21,NV,"",,Others,,false,deluxe,0.0,2.58,0.77,4.87
+2018-10-21,NY,"",,Andrew Cuomo,D,true,deluxe,0.998,59.54,54.79,64.22
+2018-10-21,NY,"",,Marc Molinaro,R,false,deluxe,0.002,36.68,31.99,41.33
+2018-10-21,NY,"",,Others,,false,deluxe,0.0,3.78,1.34,6.77
+2018-10-21,OH,"",,Mike DeWine,R,false,deluxe,0.5604,49.43,45.18,53.64
+2018-10-21,OH,"",,Richard Cordray,D,false,deluxe,0.4396,48.49,44.28,52.74
+2018-10-21,OH,"",,Others,,false,deluxe,0.0,2.08,0.57,4.01
+2018-10-21,OK,"",,Kevin Stitt,R,false,deluxe,0.8052,52.13,47.48,56.77
+2018-10-21,OK,"",,Drew Edmondson,D,false,deluxe,0.1948,46.04,41.35,50.69
+2018-10-21,OK,"",,Chris Powell,L,false,deluxe,0.0,1.83,0.48,3.56
+2018-10-21,OR,"",,Kate Brown,D,true,deluxe,0.8346,50.26,45.0,55.55
+2018-10-21,OR,"",,Knute Buehler,R,false,deluxe,0.1654,43.11,37.78,48.28
+2018-10-21,OR,"",,Others,,false,deluxe,0.0,6.62,2.95,10.9
+2018-10-21,PA,"",,Tom Wolf,D,true,deluxe,0.9904,56.95,52.8,61.07
+2018-10-21,PA,"",,Scott Wagner,R,false,deluxe,0.0096,41.0,36.85,45.11
+2018-10-21,PA,"",,Others,,false,deluxe,0.0,2.05,0.56,3.98
+2018-10-21,RI,"",,Gina Raimondo,D,true,deluxe,0.9437,54.03,47.39,60.55
+2018-10-21,RI,"",,Allan Fung,R,false,deluxe,0.0563,38.47,31.81,45.08
+2018-10-21,RI,"",,Others,,false,deluxe,0.0,7.5,3.54,12.07
+2018-10-21,SC,"",,Henry McMaster,R,true,deluxe,0.9866,58.31,53.76,62.9
+2018-10-21,SC,"",,James Smith,D,false,deluxe,0.0134,41.69,37.1,46.24
+2018-10-21,SD,"",,Kristi Noem,R,false,deluxe,0.8316,53.12,47.37,58.93
+2018-10-21,SD,"",,Billie Sutton,D,false,deluxe,0.1684,44.79,39.02,50.53
+2018-10-21,SD,"",,Kurt Evans,L,false,deluxe,0.0,2.09,0.57,4.04
+2018-10-21,TN,"",,Bill Lee,R,false,deluxe,0.9762,53.94,48.96,58.81
+2018-10-21,TN,"",,Karl Dean,D,false,deluxe,0.0238,39.59,34.62,44.51
+2018-10-21,TN,"",,Others,,false,deluxe,0.0,6.47,2.86,10.67
+2018-10-21,TX,"",,Greg Abbott,R,true,deluxe,0.9971,58.88,54.68,63.05
+2018-10-21,TX,"",,Lupe Valdez,D,false,deluxe,0.0029,39.22,35.01,43.4
+2018-10-21,TX,"",,Mark Tippetts,L,false,deluxe,0.0,1.89,0.5,3.7
+2018-10-21,VT,"",,Phil Scott,R,true,deluxe,0.9757,54.99,49.36,60.49
+2018-10-21,VT,"",,Christine Hallquist,D,false,deluxe,0.0243,38.47,32.9,43.97
+2018-10-21,VT,"",,Others,,false,deluxe,0.0,6.54,2.91,10.77
+2018-10-21,WI,"",,Tony Evers,D,false,deluxe,0.6045,49.26,44.33,54.15
+2018-10-21,WI,"",,Scott Walker,R,true,deluxe,0.3955,47.35,42.39,52.25
+2018-10-21,WI,"",,Others,,false,deluxe,0.0,3.39,1.14,6.16
+2018-10-21,WY,"",,Mark Gordon,R,false,deluxe,0.9936,60.11,54.1,66.04
+2018-10-21,WY,"",,Mary Throne,D,false,deluxe,0.0064,35.34,29.35,41.28
+2018-10-21,WY,"",,Others,,false,deluxe,0.0,4.55,1.74,7.93
+2018-10-22,AK,"",,Mike Dunleavy,R,false,deluxe,0.6817,50.72,45.25,56.26
+2018-10-22,AK,"",,Mark Begich,D,false,deluxe,0.3183,46.88,41.33,52.3
+2018-10-22,AK,"",,Others,,false,deluxe,0.0,2.4,0.7,4.57
+2018-10-22,AL,"",,Kay Ivey,R,true,deluxe,0.991,59.16,54.6,63.77
+2018-10-22,AL,"",,Walt Maddox,D,false,deluxe,0.009,40.84,36.23,45.4
+2018-10-22,AR,"",,Asa Hutchinson,R,true,deluxe,0.9994,63.46,58.27,68.61
+2018-10-22,AR,"",,Jared Henderson,D,false,deluxe,0.0006,34.04,28.89,39.22
+2018-10-22,AR,"",,Mark West,L,false,deluxe,0.0,2.49,0.74,4.7
+2018-10-22,AZ,"",,Doug Ducey,R,true,deluxe,0.9526,54.56,50.19,58.94
+2018-10-22,AZ,"",,David Garcia,D,false,deluxe,0.0474,43.32,38.87,47.67
+2018-10-22,AZ,"",,Angel Torres,G,false,deluxe,0.0,2.13,0.58,4.09
+2018-10-22,CA,"",,Gavin Newsom,D,false,deluxe,0.9942,60.3,55.55,65.1
+2018-10-22,CA,"",,John Cox,R,false,deluxe,0.0058,39.7,34.9,44.45
+2018-10-22,CO,"",,Jared Polis,D,false,deluxe,0.9355,54.37,49.92,58.85
+2018-10-22,CO,"",,Walker Stapleton,R,false,deluxe,0.0645,43.9,39.4,48.37
+2018-10-22,CO,"",,Others,,false,deluxe,0.0,1.72,0.43,3.4
+2018-10-22,CT,"",,Ned Lamont,D,false,deluxe,0.8192,51.82,47.2,56.34
+2018-10-22,CT,"",,Bob Stefanowski,R,false,deluxe,0.1808,45.63,41.11,50.16
+2018-10-22,CT,"",,Others,,false,deluxe,0.0,2.54,0.76,4.8
+2018-10-22,FL,"",,Andrew Gillum,D,false,deluxe,0.7424,50.75,46.55,54.94
+2018-10-22,FL,"",,Ron DeSantis,R,false,deluxe,0.2576,46.74,42.53,50.91
+2018-10-22,FL,"",,Others,,false,deluxe,0.0,2.51,0.75,4.72
+2018-10-22,GA,"",,Brian Kemp,R,false,deluxe,0.5609,49.65,45.94,53.42
+2018-10-22,GA,"",,Stacey Abrams,D,false,deluxe,0.4391,49.15,45.37,52.83
+2018-10-22,GA,"",,Ted Metz,L,false,deluxe,0.0,1.2,0.26,2.44
+2018-10-22,HI,"",,David Ige,D,true,deluxe,0.9986,63.34,57.5,69.15
+2018-10-22,HI,"",,Andria Tupola,R,false,deluxe,0.0014,33.02,27.18,38.82
+2018-10-22,HI,"",,Others,,false,deluxe,0.0,3.65,1.29,6.55
+2018-10-22,IA,"",,Fred Hubbell,D,false,deluxe,0.7756,51.34,46.05,56.56
+2018-10-22,IA,"",,Kim Reynolds,R,true,deluxe,0.2244,45.46,40.2,50.72
+2018-10-22,IA,"",,Others,,false,deluxe,0.0,3.2,1.05,5.83
+2018-10-22,ID,"",,Brad Little,R,false,deluxe,0.9712,55.3,49.3,61.24
+2018-10-22,ID,"",,Paulette Jordan,D,false,deluxe,0.0288,38.22,32.23,44.1
+2018-10-22,ID,"",,Others,,false,deluxe,0.0,6.47,2.88,10.64
+2018-10-22,IL,"",,JB Pritzker,D,false,deluxe,0.9259,53.99,47.98,59.95
+2018-10-22,IL,"",,Bruce Rauner,R,true,deluxe,0.0741,41.0,35.0,46.96
+2018-10-22,IL,"",,Others,,false,deluxe,0.0,5.01,2.01,8.6
+2018-10-22,KS,"",,Kris Kobach,R,false,deluxe,0.6204,45.26,39.77,50.67
+2018-10-22,KS,"",,Laura Kelly,D,false,deluxe,0.3792,42.98,37.53,48.35
+2018-10-22,KS,"",,Greg Orman,I,false,deluxe,0.0004,9.89,5.26,15.15
+2018-10-22,KS,"",,Others,,false,deluxe,0.0,1.87,0.49,3.64
+2018-10-22,MA,"",,Charlie Baker,R,true,deluxe,0.9979,64.38,58.8,70.01
+2018-10-22,MA,"",,Jay Gonzalez,D,false,deluxe,0.0021,35.62,29.99,41.2
+2018-10-22,MD,"",,Larry Hogan,R,true,deluxe,0.9826,56.17,51.58,60.71
+2018-10-22,MD,"",,Ben Jealous,D,false,deluxe,0.0174,40.94,36.35,45.51
+2018-10-22,MD,"",,Others,,false,deluxe,0.0,2.89,0.91,5.34
+2018-10-22,ME,"",,Janet Mills,D,false,deluxe,0.8408,52.8,47.43,58.14
+2018-10-22,ME,"",,Shawn Moody,R,false,deluxe,0.1592,44.81,39.47,50.14
+2018-10-22,ME,"",,Others,,false,deluxe,0.0,2.39,0.7,4.53
+2018-10-22,MI,"",,Gretchen Whitmer,D,false,deluxe,0.9495,53.99,49.52,58.4
+2018-10-22,MI,"",,Bill Schuette,R,false,deluxe,0.0505,42.88,38.39,47.32
+2018-10-22,MI,"",,Others,,false,deluxe,0.0,3.13,1.02,5.7
+2018-10-22,MN,"",,Tim Walz,D,false,deluxe,0.9171,53.81,49.07,58.51
+2018-10-22,MN,"",,Jeff Johnson,R,false,deluxe,0.0829,43.8,39.06,48.54
+2018-10-22,MN,"",,Others,,false,deluxe,0.0,2.39,0.7,4.53
+2018-10-22,NE,"",,Pete Ricketts,R,true,deluxe,0.9909,61.26,55.73,66.82
+2018-10-22,NE,"",,Bob Krist,D,false,deluxe,0.0091,38.74,33.18,44.27
+2018-10-22,NH,"",,Chris Sununu,R,true,deluxe,0.9442,55.03,50.15,59.86
+2018-10-22,NH,"",,Molly Kelly,D,false,deluxe,0.0558,43.0,38.15,47.89
+2018-10-22,NH,"",,Jilletta Jarvis,L,false,deluxe,0.0,1.97,0.53,3.84
+2018-10-22,NM,"",,Michelle Lujan Grisham,D,false,deluxe,0.8788,53.85,49.62,58.04
+2018-10-22,NM,"",,Steve Pearce,R,false,deluxe,0.1212,46.15,41.96,50.38
+2018-10-22,NV,"",,Steve Sisolak,D,false,deluxe,0.523,48.92,44.63,53.15
+2018-10-22,NV,"",,Adam Laxalt,R,false,deluxe,0.477,48.51,44.25,52.75
+2018-10-22,NV,"",,Others,,false,deluxe,0.0,2.57,0.77,4.82
+2018-10-22,NY,"",,Andrew Cuomo,D,true,deluxe,0.998,59.6,54.87,64.26
+2018-10-22,NY,"",,Marc Molinaro,R,false,deluxe,0.002,36.63,31.87,41.32
+2018-10-22,NY,"",,Others,,false,deluxe,0.0,3.77,1.33,6.74
+2018-10-22,OH,"",,Mike DeWine,R,false,deluxe,0.5515,49.38,45.12,53.56
+2018-10-22,OH,"",,Richard Cordray,D,false,deluxe,0.4485,48.55,44.33,52.77
+2018-10-22,OH,"",,Others,,false,deluxe,0.0,2.07,0.56,3.99
+2018-10-22,OK,"",,Kevin Stitt,R,false,deluxe,0.8038,52.09,47.4,56.8
+2018-10-22,OK,"",,Drew Edmondson,D,false,deluxe,0.1962,46.1,41.42,50.76
+2018-10-22,OK,"",,Chris Powell,L,false,deluxe,0.0,1.81,0.47,3.55
+2018-10-22,OR,"",,Kate Brown,D,true,deluxe,0.8362,50.33,45.02,55.52
+2018-10-22,OR,"",,Knute Buehler,R,false,deluxe,0.1638,43.08,37.74,48.3
+2018-10-22,OR,"",,Others,,false,deluxe,0.0,6.59,2.95,10.84
+2018-10-22,PA,"",,Tom Wolf,D,true,deluxe,0.9917,57.02,52.88,61.13
+2018-10-22,PA,"",,Scott Wagner,R,false,deluxe,0.0083,40.95,36.8,45.08
+2018-10-22,PA,"",,Others,,false,deluxe,0.0,2.04,0.56,3.92
+2018-10-22,RI,"",,Gina Raimondo,D,true,deluxe,0.9437,54.11,47.45,60.65
+2018-10-22,RI,"",,Allan Fung,R,false,deluxe,0.0563,38.43,31.81,45.01
+2018-10-22,RI,"",,Others,,false,deluxe,0.0,7.46,3.48,12.0
+2018-10-22,SC,"",,Henry McMaster,R,true,deluxe,0.9869,58.28,53.77,62.83
+2018-10-22,SC,"",,James Smith,D,false,deluxe,0.0131,41.72,37.17,46.23
+2018-10-22,SD,"",,Kristi Noem,R,false,deluxe,0.829,53.07,47.32,58.81
+2018-10-22,SD,"",,Billie Sutton,D,false,deluxe,0.171,44.85,39.07,50.57
+2018-10-22,SD,"",,Kurt Evans,L,false,deluxe,0.0,2.08,0.57,4.0
+2018-10-22,TN,"",,Bill Lee,R,false,deluxe,0.977,53.9,49.01,58.82
+2018-10-22,TN,"",,Karl Dean,D,false,deluxe,0.023,39.64,34.64,44.51
+2018-10-22,TN,"",,Others,,false,deluxe,0.0,6.45,2.87,10.6
+2018-10-22,TX,"",,Greg Abbott,R,true,deluxe,0.9968,58.84,54.65,63.04
+2018-10-22,TX,"",,Lupe Valdez,D,false,deluxe,0.0032,39.28,35.05,43.44
+2018-10-22,TX,"",,Mark Tippetts,L,false,deluxe,0.0,1.89,0.49,3.68
+2018-10-22,VT,"",,Phil Scott,R,true,deluxe,0.9715,53.15,47.22,58.93
+2018-10-22,VT,"",,Christine Hallquist,D,false,deluxe,0.0285,37.19,31.31,42.99
+2018-10-22,VT,"",,Others,,false,deluxe,0.0,9.66,5.05,14.84
+2018-10-22,WI,"",,Tony Evers,D,false,deluxe,0.6084,49.32,44.41,54.16
+2018-10-22,WI,"",,Scott Walker,R,true,deluxe,0.3916,47.31,42.4,52.22
+2018-10-22,WI,"",,Others,,false,deluxe,0.0,3.37,1.15,6.09
+2018-10-22,WY,"",,Mark Gordon,R,false,deluxe,0.9941,60.02,53.98,65.99
+2018-10-22,WY,"",,Mary Throne,D,false,deluxe,0.0059,35.43,29.4,41.44
+2018-10-22,WY,"",,Others,,false,deluxe,0.0,4.55,1.75,7.91
 2018-10-11,AK,"",,Mike Dunleavy,R,false,lite,0.7753,40.78,32.37,49.15
 2018-10-11,AK,"",,Mark Begich,D,false,lite,0.1928,30.06,20.37,39.76
 2018-10-11,AK,"",,Bill Walker,U,true,lite,0.0319,25.74,19.22,32.54
@@ -2386,106 +2798,312 @@ forecastdate,state,district,special,candidate,party,incumbent,model,win_probabil
 2018-10-19,WY,"",,Mark Gordon,R,false,lite,0.9544,59.56,50.73,68.39
 2018-10-19,WY,"",,Mary Throne,D,false,lite,0.0456,35.89,26.97,44.76
 2018-10-19,WY,"",,Others,,false,lite,0.0,4.55,1.72,7.97
-2018-10-20,AK,"",,Mike Dunleavy,R,false,lite,0.6736,51.19,44.15,58.27
-2018-10-20,AK,"",,Mark Begich,D,false,lite,0.3264,46.41,39.28,53.45
-2018-10-20,AK,"",,Others,,false,lite,0.0,2.41,0.7,4.57
-2018-10-20,AL,"",,Kay Ivey,R,true,lite,0.937,57.47,51.27,63.65
-2018-10-20,AL,"",,Walt Maddox,D,false,lite,0.063,42.53,36.35,48.73
-2018-10-20,AR,"",,Asa Hutchinson,R,true,lite,0.9989,66.53,60.14,72.97
-2018-10-20,AR,"",,Jared Henderson,D,false,lite,0.0011,31.0,24.55,37.4
-2018-10-20,AR,"",,Mark West,L,false,lite,0.0,2.47,0.72,4.68
-2018-10-20,AZ,"",,Doug Ducey,R,true,lite,0.9522,54.14,50.05,58.23
-2018-10-20,AZ,"",,David Garcia,D,false,lite,0.0478,43.74,39.63,47.8
+2018-10-20,AK,"",,Mike Dunleavy,R,false,lite,0.6735,51.19,44.15,58.33
+2018-10-20,AK,"",,Mark Begich,D,false,lite,0.3265,46.41,39.27,53.41
+2018-10-20,AK,"",,Others,,false,lite,0.0,2.41,0.69,4.55
+2018-10-20,AL,"",,Kay Ivey,R,true,lite,0.9403,57.47,51.4,63.65
+2018-10-20,AL,"",,Walt Maddox,D,false,lite,0.0597,42.53,36.35,48.6
+2018-10-20,AR,"",,Asa Hutchinson,R,true,lite,0.9986,66.53,60.12,72.94
+2018-10-20,AR,"",,Jared Henderson,D,false,lite,0.0014,31.0,24.58,37.36
+2018-10-20,AR,"",,Mark West,L,false,lite,0.0,2.47,0.73,4.65
+2018-10-20,AZ,"",,Doug Ducey,R,true,lite,0.9531,54.14,50.07,58.26
+2018-10-20,AZ,"",,David Garcia,D,false,lite,0.0469,43.74,39.59,47.78
 2018-10-20,AZ,"",,Angel Torres,G,false,lite,0.0,2.12,0.58,4.07
-2018-10-20,CA,"",,Gavin Newsom,D,false,lite,0.9827,57.68,53.1,62.21
-2018-10-20,CA,"",,John Cox,R,false,lite,0.0173,42.32,37.79,46.9
-2018-10-20,CO,"",,Jared Polis,D,false,lite,0.8265,52.68,47.0,58.37
-2018-10-20,CO,"",,Walker Stapleton,R,false,lite,0.1735,44.66,38.99,50.34
-2018-10-20,CO,"",,Others,,false,lite,0.0,2.66,0.81,4.96
-2018-10-20,CT,"",,Ned Lamont,D,false,lite,0.78,51.53,46.66,56.33
-2018-10-20,CT,"",,Bob Stefanowski,R,false,lite,0.22,45.93,41.07,50.8
-2018-10-20,CT,"",,Others,,false,lite,0.0,2.54,0.75,4.8
-2018-10-20,FL,"",,Andrew Gillum,D,false,lite,0.7487,50.75,46.56,54.85
-2018-10-20,FL,"",,Ron DeSantis,R,false,lite,0.2513,46.7,42.57,50.82
-2018-10-20,FL,"",,Others,,false,lite,0.0,2.55,0.76,4.78
-2018-10-20,GA,"",,Brian Kemp,R,false,lite,0.5603,49.76,46.0,53.51
-2018-10-20,GA,"",,Stacey Abrams,D,false,lite,0.4397,49.04,45.27,52.79
-2018-10-20,GA,"",,Ted Metz,L,false,lite,0.0,1.2,0.26,2.45
-2018-10-20,HI,"",,David Ige,D,true,lite,0.9887,60.15,53.52,66.76
-2018-10-20,HI,"",,Andria Tupola,R,false,lite,0.0113,36.21,29.57,42.85
-2018-10-20,HI,"",,Others,,false,lite,0.0,3.64,1.27,6.57
-2018-10-20,IA,"",,Fred Hubbell,D,false,lite,0.7363,50.96,45.54,56.4
-2018-10-20,IA,"",,Kim Reynolds,R,true,lite,0.2637,45.85,40.41,51.23
-2018-10-20,IA,"",,Others,,false,lite,0.0,3.18,1.05,5.82
-2018-10-20,ID,"",,Brad Little,R,false,lite,0.8552,52.19,45.2,59.21
-2018-10-20,ID,"",,Paulette Jordan,D,false,lite,0.1448,41.33,34.28,48.25
-2018-10-20,ID,"",,Others,,false,lite,0.0,6.48,2.86,10.72
-2018-10-20,IL,"",,JB Pritzker,D,false,lite,0.98,56.51,50.78,62.25
-2018-10-20,IL,"",,Bruce Rauner,R,true,lite,0.02,38.49,32.74,44.13
-2018-10-20,IL,"",,Others,,false,lite,0.0,5.0,1.99,8.62
-2018-10-20,KS,"",,Laura Kelly,D,false,lite,0.521,44.32,38.69,49.86
-2018-10-20,KS,"",,Kris Kobach,R,false,lite,0.4785,43.93,38.25,49.47
-2018-10-20,KS,"",,Greg Orman,I,false,lite,0.0005,9.89,5.2,15.13
-2018-10-20,KS,"",,Others,,false,lite,0.0,1.86,0.47,3.64
-2018-10-20,MA,"",,Charlie Baker,R,true,lite,0.9969,68.16,60.5,75.79
-2018-10-20,MA,"",,Jay Gonzalez,D,false,lite,0.0031,31.84,24.21,39.5
-2018-10-20,MD,"",,Larry Hogan,R,true,lite,0.9826,57.92,52.25,63.46
-2018-10-20,MD,"",,Ben Jealous,D,false,lite,0.0174,39.19,33.65,44.79
-2018-10-20,MD,"",,Others,,false,lite,0.0,2.89,0.91,5.33
-2018-10-20,ME,"",,Janet Mills,D,false,lite,0.8201,52.63,47.1,58.13
-2018-10-20,ME,"",,Shawn Moody,R,false,lite,0.1799,44.98,39.47,50.45
-2018-10-20,ME,"",,Others,,false,lite,0.0,2.39,0.69,4.54
-2018-10-20,MI,"",,Gretchen Whitmer,D,false,lite,0.9349,54.05,49.12,58.84
-2018-10-20,MI,"",,Bill Schuette,R,false,lite,0.0651,42.83,37.99,47.7
-2018-10-20,MI,"",,Others,,false,lite,0.0,3.13,1.02,5.73
-2018-10-20,MN,"",,Tim Walz,D,false,lite,0.8667,52.92,48.07,57.7
-2018-10-20,MN,"",,Jeff Johnson,R,false,lite,0.1333,44.8,40.02,49.62
-2018-10-20,MN,"",,Others,,false,lite,0.0,2.28,0.65,4.35
-2018-10-20,NE,"",,Pete Ricketts,R,true,lite,0.9737,63.24,54.81,71.68
-2018-10-20,NE,"",,Bob Krist,D,false,lite,0.0263,36.76,28.32,45.19
-2018-10-20,NH,"",,Chris Sununu,R,true,lite,0.9426,55.3,50.15,60.41
-2018-10-20,NH,"",,Molly Kelly,D,false,lite,0.0574,42.73,37.57,47.86
-2018-10-20,NH,"",,Jilletta Jarvis,L,false,lite,0.0,1.97,0.53,3.8
-2018-10-20,NM,"",,Michelle Lujan Grisham,D,false,lite,0.8075,53.2,48.44,57.95
-2018-10-20,NM,"",,Steve Pearce,R,false,lite,0.1925,46.8,42.05,51.56
-2018-10-20,NV,"",,Adam Laxalt,R,false,lite,0.5394,49.03,44.72,53.34
-2018-10-20,NV,"",,Steve Sisolak,D,false,lite,0.4606,48.4,44.07,52.69
-2018-10-20,NV,"",,Others,,false,lite,0.0,2.57,0.76,4.85
-2018-10-20,NY,"",,Andrew Cuomo,D,true,lite,0.995,58.36,53.36,63.27
-2018-10-20,NY,"",,Marc Molinaro,R,false,lite,0.005,37.87,32.92,42.82
+2018-10-20,CA,"",,Gavin Newsom,D,false,lite,0.9816,57.68,53.16,62.24
+2018-10-20,CA,"",,John Cox,R,false,lite,0.0184,42.32,37.76,46.84
+2018-10-20,CO,"",,Jared Polis,D,false,lite,0.8248,52.68,46.96,58.37
+2018-10-20,CO,"",,Walker Stapleton,R,false,lite,0.1752,44.66,38.97,50.33
+2018-10-20,CO,"",,Others,,false,lite,0.0,2.66,0.8,4.99
+2018-10-20,CT,"",,Ned Lamont,D,false,lite,0.7798,51.53,46.62,56.35
+2018-10-20,CT,"",,Bob Stefanowski,R,false,lite,0.2202,45.93,41.07,50.83
+2018-10-20,CT,"",,Others,,false,lite,0.0,2.54,0.75,4.77
+2018-10-20,FL,"",,Andrew Gillum,D,false,lite,0.7497,50.75,46.59,54.87
+2018-10-20,FL,"",,Ron DeSantis,R,false,lite,0.2503,46.7,42.54,50.78
+2018-10-20,FL,"",,Others,,false,lite,0.0,2.55,0.75,4.79
+2018-10-20,GA,"",,Brian Kemp,R,false,lite,0.5604,49.76,46.0,53.53
+2018-10-20,GA,"",,Stacey Abrams,D,false,lite,0.4396,49.04,45.26,52.83
+2018-10-20,GA,"",,Ted Metz,L,false,lite,0.0,1.2,0.26,2.46
+2018-10-20,HI,"",,David Ige,D,true,lite,0.9881,60.15,53.53,66.69
+2018-10-20,HI,"",,Andria Tupola,R,false,lite,0.0119,36.21,29.65,42.86
+2018-10-20,HI,"",,Others,,false,lite,0.0,3.64,1.27,6.56
+2018-10-20,IA,"",,Fred Hubbell,D,false,lite,0.7394,50.96,45.56,56.37
+2018-10-20,IA,"",,Kim Reynolds,R,true,lite,0.2606,45.86,40.43,51.26
+2018-10-20,IA,"",,Others,,false,lite,0.0,3.18,1.06,5.78
+2018-10-20,ID,"",,Brad Little,R,false,lite,0.8554,52.19,45.17,59.12
+2018-10-20,ID,"",,Paulette Jordan,D,false,lite,0.1446,41.33,34.34,48.28
+2018-10-20,ID,"",,Others,,false,lite,0.0,6.48,2.87,10.63
+2018-10-20,IL,"",,JB Pritzker,D,false,lite,0.9797,56.51,50.77,62.23
+2018-10-20,IL,"",,Bruce Rauner,R,true,lite,0.0203,38.49,32.76,44.16
+2018-10-20,IL,"",,Others,,false,lite,0.0,5.0,2.0,8.62
+2018-10-20,KS,"",,Laura Kelly,D,false,lite,0.5176,44.31,38.68,49.81
+2018-10-20,KS,"",,Kris Kobach,R,false,lite,0.4819,43.94,38.28,49.49
+2018-10-20,KS,"",,Greg Orman,I,false,lite,0.0004,9.89,5.2,15.13
+2018-10-20,KS,"",,Others,,false,lite,0.0,1.86,0.48,3.62
+2018-10-20,MA,"",,Charlie Baker,R,true,lite,0.997,68.16,60.61,75.79
+2018-10-20,MA,"",,Jay Gonzalez,D,false,lite,0.003,31.84,24.21,39.39
+2018-10-20,MD,"",,Larry Hogan,R,true,lite,0.983,57.93,52.3,63.54
+2018-10-20,MD,"",,Ben Jealous,D,false,lite,0.017,39.19,33.5,44.78
+2018-10-20,MD,"",,Others,,false,lite,0.0,2.89,0.91,5.34
+2018-10-20,ME,"",,Janet Mills,D,false,lite,0.8198,52.63,47.09,58.09
+2018-10-20,ME,"",,Shawn Moody,R,false,lite,0.1802,44.98,39.47,50.51
+2018-10-20,ME,"",,Others,,false,lite,0.0,2.39,0.69,4.53
+2018-10-20,MI,"",,Gretchen Whitmer,D,false,lite,0.9359,54.05,49.17,58.9
+2018-10-20,MI,"",,Bill Schuette,R,false,lite,0.0641,42.83,37.9,47.66
+2018-10-20,MI,"",,Others,,false,lite,0.0,3.13,1.02,5.74
+2018-10-20,MN,"",,Tim Walz,D,false,lite,0.8677,52.91,48.09,57.75
+2018-10-20,MN,"",,Jeff Johnson,R,false,lite,0.1323,44.8,39.97,49.61
+2018-10-20,MN,"",,Others,,false,lite,0.0,2.28,0.65,4.36
+2018-10-20,NE,"",,Pete Ricketts,R,true,lite,0.973,63.24,54.75,71.74
+2018-10-20,NE,"",,Bob Krist,D,false,lite,0.027,36.76,28.26,45.25
+2018-10-20,NH,"",,Chris Sununu,R,true,lite,0.9442,55.3,50.15,60.43
+2018-10-20,NH,"",,Molly Kelly,D,false,lite,0.0558,42.73,37.61,47.82
+2018-10-20,NH,"",,Jilletta Jarvis,L,false,lite,0.0,1.97,0.52,3.84
+2018-10-20,NM,"",,Michelle Lujan Grisham,D,false,lite,0.8054,53.2,48.43,57.88
+2018-10-20,NM,"",,Steve Pearce,R,false,lite,0.1946,46.8,42.12,51.57
+2018-10-20,NV,"",,Adam Laxalt,R,false,lite,0.5395,49.03,44.66,53.36
+2018-10-20,NV,"",,Steve Sisolak,D,false,lite,0.4605,48.4,44.03,52.7
+2018-10-20,NV,"",,Others,,false,lite,0.0,2.57,0.78,4.84
+2018-10-20,NY,"",,Andrew Cuomo,D,true,lite,0.995,58.36,53.37,63.26
+2018-10-20,NY,"",,Marc Molinaro,R,false,lite,0.005,37.87,32.93,42.82
 2018-10-20,NY,"",,Others,,false,lite,0.0,3.77,1.33,6.75
-2018-10-20,OH,"",,Mike DeWine,R,false,lite,0.5268,49.2,44.94,53.41
-2018-10-20,OH,"",,Richard Cordray,D,false,lite,0.4732,48.73,44.5,52.97
-2018-10-20,OH,"",,Others,,false,lite,0.0,2.07,0.56,4.01
-2018-10-20,OK,"",,Kevin Stitt,R,false,lite,0.6597,50.71,45.41,55.99
-2018-10-20,OK,"",,Drew Edmondson,D,false,lite,0.3403,47.48,42.2,52.73
-2018-10-20,OK,"",,Chris Powell,L,false,lite,0.0,1.82,0.47,3.55
-2018-10-20,OR,"",,Kate Brown,D,true,lite,0.7015,48.97,43.01,54.88
-2018-10-20,OR,"",,Knute Buehler,R,false,lite,0.2985,44.43,38.49,50.33
-2018-10-20,OR,"",,Others,,false,lite,0.0,6.59,2.95,10.84
-2018-10-20,PA,"",,Tom Wolf,D,true,lite,0.9846,56.43,52.04,60.75
-2018-10-20,PA,"",,Scott Wagner,R,false,lite,0.0154,41.53,37.22,45.91
-2018-10-20,PA,"",,Others,,false,lite,0.0,2.03,0.55,3.93
-2018-10-20,RI,"",,Gina Raimondo,D,true,lite,0.8787,51.83,45.26,58.38
-2018-10-20,RI,"",,Allan Fung,R,false,lite,0.1213,40.7,34.11,47.18
-2018-10-20,RI,"",,Others,,false,lite,0.0,7.47,3.47,12.0
-2018-10-20,SC,"",,Henry McMaster,R,true,lite,0.9752,59.33,53.56,65.19
-2018-10-20,SC,"",,James Smith,D,false,lite,0.0248,40.67,34.81,46.44
-2018-10-20,SD,"",,Kristi Noem,R,false,lite,0.6633,51.2,44.17,58.2
-2018-10-20,SD,"",,Billie Sutton,D,false,lite,0.3367,46.72,39.65,53.73
-2018-10-20,SD,"",,Kurt Evans,L,false,lite,0.0,2.08,0.57,3.99
-2018-10-20,TN,"",,Bill Lee,R,false,lite,0.9851,54.8,49.77,59.77
-2018-10-20,TN,"",,Karl Dean,D,false,lite,0.0149,38.76,33.7,43.75
-2018-10-20,TN,"",,Others,,false,lite,0.0,6.44,2.83,10.63
-2018-10-20,TX,"",,Greg Abbott,R,true,lite,0.9966,58.58,54.27,62.87
-2018-10-20,TX,"",,Lupe Valdez,D,false,lite,0.0034,39.54,35.21,43.82
-2018-10-20,TX,"",,Mark Tippetts,L,false,lite,0.0,1.88,0.5,3.67
-2018-10-20,VT,"",,Phil Scott,R,true,lite,0.6881,49.6,41.66,57.45
-2018-10-20,VT,"",,Christine Hallquist,D,false,lite,0.3119,43.9,35.97,51.84
-2018-10-20,VT,"",,Others,,false,lite,0.0,6.5,2.89,10.68
-2018-10-20,WI,"",,Tony Evers,D,false,lite,0.7545,50.95,45.73,56.2
-2018-10-20,WI,"",,Scott Walker,R,true,lite,0.2455,45.68,40.39,50.87
-2018-10-20,WI,"",,Others,,false,lite,0.0,3.37,1.13,6.12
-2018-10-20,WY,"",,Mark Gordon,R,false,lite,0.9564,59.47,50.67,68.35
-2018-10-20,WY,"",,Mary Throne,D,false,lite,0.0436,35.97,26.98,44.78
+2018-10-20,OH,"",,Mike DeWine,R,false,lite,0.532,49.2,44.98,53.45
+2018-10-20,OH,"",,Richard Cordray,D,false,lite,0.468,48.73,44.45,52.96
+2018-10-20,OH,"",,Others,,false,lite,0.0,2.07,0.56,3.99
+2018-10-20,OK,"",,Kevin Stitt,R,false,lite,0.657,50.71,45.4,56.02
+2018-10-20,OK,"",,Drew Edmondson,D,false,lite,0.3429,47.48,42.18,52.76
+2018-10-20,OK,"",,Chris Powell,L,false,lite,0.0,1.82,0.47,3.58
+2018-10-20,OR,"",,Kate Brown,D,true,lite,0.7051,48.97,43.01,54.84
+2018-10-20,OR,"",,Knute Buehler,R,false,lite,0.2949,44.43,38.5,50.38
+2018-10-20,OR,"",,Others,,false,lite,0.0,6.59,2.92,10.81
+2018-10-20,PA,"",,Tom Wolf,D,true,lite,0.9842,56.43,52.05,60.75
+2018-10-20,PA,"",,Scott Wagner,R,false,lite,0.0158,41.54,37.19,45.9
+2018-10-20,PA,"",,Others,,false,lite,0.0,2.03,0.55,3.92
+2018-10-20,RI,"",,Gina Raimondo,D,true,lite,0.8797,51.83,45.28,58.33
+2018-10-20,RI,"",,Allan Fung,R,false,lite,0.1203,40.7,34.12,47.26
+2018-10-20,RI,"",,Others,,false,lite,0.0,7.47,3.48,12.02
+2018-10-20,SC,"",,Henry McMaster,R,true,lite,0.9753,59.33,53.48,65.15
+2018-10-20,SC,"",,James Smith,D,false,lite,0.0247,40.67,34.85,46.52
+2018-10-20,SD,"",,Kristi Noem,R,false,lite,0.6696,51.2,44.25,58.24
+2018-10-20,SD,"",,Billie Sutton,D,false,lite,0.3304,46.72,39.66,53.67
+2018-10-20,SD,"",,Kurt Evans,L,false,lite,0.0,2.08,0.57,3.97
+2018-10-20,TN,"",,Bill Lee,R,false,lite,0.9866,54.8,49.85,59.72
+2018-10-20,TN,"",,Karl Dean,D,false,lite,0.0134,38.76,33.74,43.69
+2018-10-20,TN,"",,Others,,false,lite,0.0,6.44,2.83,10.61
+2018-10-20,TX,"",,Greg Abbott,R,true,lite,0.9967,58.58,54.34,62.86
+2018-10-20,TX,"",,Lupe Valdez,D,false,lite,0.0033,39.54,35.24,43.8
+2018-10-20,TX,"",,Mark Tippetts,L,false,lite,0.0,1.88,0.49,3.67
+2018-10-20,VT,"",,Phil Scott,R,true,lite,0.6888,49.62,41.69,57.44
+2018-10-20,VT,"",,Christine Hallquist,D,false,lite,0.3112,43.88,36.02,51.78
+2018-10-20,VT,"",,Others,,false,lite,0.0,6.5,2.92,10.71
+2018-10-20,WI,"",,Tony Evers,D,false,lite,0.7551,50.95,45.73,56.23
+2018-10-20,WI,"",,Scott Walker,R,true,lite,0.2449,45.68,40.38,50.9
+2018-10-20,WI,"",,Others,,false,lite,0.0,3.37,1.12,6.16
+2018-10-20,WY,"",,Mark Gordon,R,false,lite,0.9553,59.47,50.61,68.26
+2018-10-20,WY,"",,Mary Throne,D,false,lite,0.0447,35.97,27.14,44.86
 2018-10-20,WY,"",,Others,,false,lite,0.0,4.55,1.73,7.96
+2018-10-21,AK,"",,Mike Dunleavy,R,false,lite,0.6693,51.13,44.08,58.1
+2018-10-21,AK,"",,Mark Begich,D,false,lite,0.3307,46.45,39.41,53.52
+2018-10-21,AK,"",,Others,,false,lite,0.0,2.42,0.7,4.55
+2018-10-21,AL,"",,Kay Ivey,R,true,lite,0.9377,57.39,51.29,63.5
+2018-10-21,AL,"",,Walt Maddox,D,false,lite,0.0623,42.61,36.5,48.71
+2018-10-21,AR,"",,Asa Hutchinson,R,true,lite,0.9989,66.2,59.87,72.55
+2018-10-21,AR,"",,Jared Henderson,D,false,lite,0.0011,31.29,24.93,37.61
+2018-10-21,AR,"",,Mark West,L,false,lite,0.0,2.51,0.76,4.72
+2018-10-21,AZ,"",,Doug Ducey,R,true,lite,0.9523,54.13,50.02,58.21
+2018-10-21,AZ,"",,David Garcia,D,false,lite,0.0477,43.73,39.62,47.79
+2018-10-21,AZ,"",,Angel Torres,G,false,lite,0.0,2.14,0.59,4.09
+2018-10-21,CA,"",,Gavin Newsom,D,false,lite,0.9834,57.7,53.21,62.2
+2018-10-21,CA,"",,John Cox,R,false,lite,0.0166,42.3,37.8,46.79
+2018-10-21,CO,"",,Jared Polis,D,false,lite,0.8286,52.7,47.02,58.31
+2018-10-21,CO,"",,Walker Stapleton,R,false,lite,0.1714,44.62,38.99,50.24
+2018-10-21,CO,"",,Others,,false,lite,0.0,2.68,0.82,5.02
+2018-10-21,CT,"",,Ned Lamont,D,false,lite,0.7835,51.54,46.67,56.42
+2018-10-21,CT,"",,Bob Stefanowski,R,false,lite,0.2165,45.91,41.04,50.73
+2018-10-21,CT,"",,Others,,false,lite,0.0,2.55,0.77,4.79
+2018-10-21,FL,"",,Andrew Gillum,D,false,lite,0.8162,51.42,47.38,55.43
+2018-10-21,FL,"",,Ron DeSantis,R,false,lite,0.1838,46.05,42.0,50.08
+2018-10-21,FL,"",,Others,,false,lite,0.0,2.53,0.75,4.77
+2018-10-21,GA,"",,Brian Kemp,R,false,lite,0.5594,49.74,45.99,53.49
+2018-10-21,GA,"",,Stacey Abrams,D,false,lite,0.4406,49.06,45.3,52.81
+2018-10-21,GA,"",,Ted Metz,L,false,lite,0.0,1.21,0.26,2.47
+2018-10-21,HI,"",,David Ige,D,true,lite,0.9884,60.2,53.62,66.76
+2018-10-21,HI,"",,Andria Tupola,R,false,lite,0.0116,36.14,29.57,42.68
+2018-10-21,HI,"",,Others,,false,lite,0.0,3.66,1.28,6.57
+2018-10-21,IA,"",,Fred Hubbell,D,false,lite,0.7417,50.98,45.56,56.39
+2018-10-21,IA,"",,Kim Reynolds,R,true,lite,0.2583,45.81,40.38,51.22
+2018-10-21,IA,"",,Others,,false,lite,0.0,3.21,1.05,5.93
+2018-10-21,ID,"",,Brad Little,R,false,lite,0.8498,52.06,44.96,59.03
+2018-10-21,ID,"",,Paulette Jordan,D,false,lite,0.1502,41.4,34.37,48.41
+2018-10-21,ID,"",,Others,,false,lite,0.0,6.53,2.9,10.75
+2018-10-21,IL,"",,JB Pritzker,D,false,lite,0.9798,56.52,50.8,62.18
+2018-10-21,IL,"",,Bruce Rauner,R,true,lite,0.0202,38.45,32.74,44.17
+2018-10-21,IL,"",,Others,,false,lite,0.0,5.03,2.01,8.62
+2018-10-21,KS,"",,Laura Kelly,D,false,lite,0.5199,44.33,38.65,49.86
+2018-10-21,KS,"",,Kris Kobach,R,false,lite,0.4798,43.9,38.27,49.42
+2018-10-21,KS,"",,Greg Orman,I,false,lite,0.0004,9.89,5.21,15.14
+2018-10-21,KS,"",,Others,,false,lite,0.0,1.88,0.49,3.65
+2018-10-21,MA,"",,Charlie Baker,R,true,lite,0.9972,68.15,60.53,75.71
+2018-10-21,MA,"",,Jay Gonzalez,D,false,lite,0.0028,31.85,24.29,39.47
+2018-10-21,MD,"",,Larry Hogan,R,true,lite,0.9819,57.89,52.28,63.5
+2018-10-21,MD,"",,Ben Jealous,D,false,lite,0.0181,39.21,33.6,44.8
+2018-10-21,MD,"",,Others,,false,lite,0.0,2.9,0.92,5.37
+2018-10-21,ME,"",,Janet Mills,D,false,lite,0.8224,52.62,47.17,58.11
+2018-10-21,ME,"",,Shawn Moody,R,false,lite,0.1776,44.97,39.44,50.44
+2018-10-21,ME,"",,Others,,false,lite,0.0,2.41,0.69,4.57
+2018-10-21,MI,"",,Gretchen Whitmer,D,false,lite,0.9381,54.06,49.23,58.89
+2018-10-21,MI,"",,Bill Schuette,R,false,lite,0.0619,42.79,37.89,47.62
+2018-10-21,MI,"",,Others,,false,lite,0.0,3.15,1.02,5.77
+2018-10-21,MN,"",,Tim Walz,D,false,lite,0.8532,52.42,47.84,57.0
+2018-10-21,MN,"",,Jeff Johnson,R,false,lite,0.1468,45.19,40.58,49.73
+2018-10-21,MN,"",,Others,,false,lite,0.0,2.39,0.69,4.54
+2018-10-21,NE,"",,Pete Ricketts,R,true,lite,0.9699,62.99,54.54,71.32
+2018-10-21,NE,"",,Bob Krist,D,false,lite,0.0301,37.01,28.68,45.46
+2018-10-21,NH,"",,Chris Sununu,R,true,lite,0.9427,55.29,50.12,60.46
+2018-10-21,NH,"",,Molly Kelly,D,false,lite,0.0573,42.73,37.56,47.86
+2018-10-21,NH,"",,Jilletta Jarvis,L,false,lite,0.0,1.97,0.53,3.82
+2018-10-21,NM,"",,Michelle Lujan Grisham,D,false,lite,0.8114,53.23,48.43,58.01
+2018-10-21,NM,"",,Steve Pearce,R,false,lite,0.1886,46.77,41.99,51.57
+2018-10-21,NV,"",,Adam Laxalt,R,false,lite,0.5396,49.02,44.7,53.33
+2018-10-21,NV,"",,Steve Sisolak,D,false,lite,0.4604,48.39,44.06,52.71
+2018-10-21,NV,"",,Others,,false,lite,0.0,2.58,0.77,4.87
+2018-10-21,NY,"",,Andrew Cuomo,D,true,lite,0.9954,58.39,53.4,63.32
+2018-10-21,NY,"",,Marc Molinaro,R,false,lite,0.0046,37.84,32.89,42.74
+2018-10-21,NY,"",,Others,,false,lite,0.0,3.78,1.34,6.77
+2018-10-21,OH,"",,Mike DeWine,R,false,lite,0.5279,49.18,44.91,53.4
+2018-10-21,OH,"",,Richard Cordray,D,false,lite,0.4721,48.74,44.5,53.0
+2018-10-21,OH,"",,Others,,false,lite,0.0,2.08,0.57,4.01
+2018-10-21,OK,"",,Kevin Stitt,R,false,lite,0.6541,50.69,45.41,55.93
+2018-10-21,OK,"",,Drew Edmondson,D,false,lite,0.3459,47.48,42.2,52.73
+2018-10-21,OK,"",,Chris Powell,L,false,lite,0.0,1.83,0.48,3.56
+2018-10-21,OR,"",,Kate Brown,D,true,lite,0.7067,48.98,43.05,54.97
+2018-10-21,OR,"",,Knute Buehler,R,false,lite,0.2933,44.4,38.38,50.24
+2018-10-21,OR,"",,Others,,false,lite,0.0,6.62,2.95,10.9
+2018-10-21,PA,"",,Tom Wolf,D,true,lite,0.9842,56.45,52.1,60.75
+2018-10-21,PA,"",,Scott Wagner,R,false,lite,0.0158,41.5,37.15,45.8
+2018-10-21,PA,"",,Others,,false,lite,0.0,2.05,0.56,3.98
+2018-10-21,RI,"",,Gina Raimondo,D,true,lite,0.8803,51.84,45.3,58.28
+2018-10-21,RI,"",,Allan Fung,R,false,lite,0.1197,40.66,34.1,47.17
+2018-10-21,RI,"",,Others,,false,lite,0.0,7.5,3.54,12.07
+2018-10-21,SC,"",,Henry McMaster,R,true,lite,0.9757,59.32,53.47,65.17
+2018-10-21,SC,"",,James Smith,D,false,lite,0.0243,40.68,34.83,46.53
+2018-10-21,SD,"",,Kristi Noem,R,false,lite,0.6567,51.08,44.09,58.17
+2018-10-21,SD,"",,Billie Sutton,D,false,lite,0.3433,46.83,39.82,53.83
+2018-10-21,SD,"",,Kurt Evans,L,false,lite,0.0,2.09,0.57,4.04
+2018-10-21,TN,"",,Bill Lee,R,false,lite,0.9852,54.81,49.74,59.77
+2018-10-21,TN,"",,Karl Dean,D,false,lite,0.0148,38.72,33.65,43.73
+2018-10-21,TN,"",,Others,,false,lite,0.0,6.47,2.86,10.67
+2018-10-21,TX,"",,Greg Abbott,R,true,lite,0.9966,58.58,54.27,62.89
+2018-10-21,TX,"",,Lupe Valdez,D,false,lite,0.0034,39.52,35.19,43.82
+2018-10-21,TX,"",,Mark Tippetts,L,false,lite,0.0,1.89,0.5,3.7
+2018-10-21,VT,"",,Phil Scott,R,true,lite,0.687,49.57,41.63,57.41
+2018-10-21,VT,"",,Christine Hallquist,D,false,lite,0.313,43.89,36.02,51.76
+2018-10-21,VT,"",,Others,,false,lite,0.0,6.54,2.91,10.77
+2018-10-21,WI,"",,Tony Evers,D,false,lite,0.756,50.96,45.72,56.17
+2018-10-21,WI,"",,Scott Walker,R,true,lite,0.244,45.65,40.38,50.85
+2018-10-21,WI,"",,Others,,false,lite,0.0,3.39,1.14,6.16
+2018-10-21,WY,"",,Mark Gordon,R,false,lite,0.9493,59.14,50.22,67.95
+2018-10-21,WY,"",,Mary Throne,D,false,lite,0.0507,36.31,27.45,45.18
+2018-10-21,WY,"",,Others,,false,lite,0.0,4.55,1.74,7.93
+2018-10-22,AK,"",,Mike Dunleavy,R,false,lite,0.6644,51.05,44.01,58.19
+2018-10-22,AK,"",,Mark Begich,D,false,lite,0.3356,46.54,39.4,53.56
+2018-10-22,AK,"",,Others,,false,lite,0.0,2.4,0.7,4.57
+2018-10-22,AL,"",,Kay Ivey,R,true,lite,0.9358,57.32,51.24,63.48
+2018-10-22,AL,"",,Walt Maddox,D,false,lite,0.0642,42.68,36.52,48.76
+2018-10-22,AR,"",,Asa Hutchinson,R,true,lite,0.9991,66.11,59.68,72.51
+2018-10-22,AR,"",,Jared Henderson,D,false,lite,0.0009,31.4,25.02,37.84
+2018-10-22,AR,"",,Mark West,L,false,lite,0.0,2.49,0.74,4.7
+2018-10-22,AZ,"",,Doug Ducey,R,true,lite,0.9506,54.08,49.99,58.21
+2018-10-22,AZ,"",,David Garcia,D,false,lite,0.0494,43.79,39.62,47.84
+2018-10-22,AZ,"",,Angel Torres,G,false,lite,0.0,2.13,0.58,4.09
+2018-10-22,CA,"",,Gavin Newsom,D,false,lite,0.9882,58.3,53.85,62.8
+2018-10-22,CA,"",,John Cox,R,false,lite,0.0118,41.7,37.2,46.15
+2018-10-22,CO,"",,Jared Polis,D,false,lite,0.9089,54.45,49.26,59.68
+2018-10-22,CO,"",,Walker Stapleton,R,false,lite,0.0911,43.83,38.59,49.01
+2018-10-22,CO,"",,Others,,false,lite,0.0,1.72,0.43,3.4
+2018-10-22,CT,"",,Ned Lamont,D,false,lite,0.7835,51.59,46.68,56.44
+2018-10-22,CT,"",,Bob Stefanowski,R,false,lite,0.2165,45.87,41.01,50.71
+2018-10-22,CT,"",,Others,,false,lite,0.0,2.54,0.76,4.8
+2018-10-22,FL,"",,Andrew Gillum,D,false,lite,0.8142,51.43,47.4,55.44
+2018-10-22,FL,"",,Ron DeSantis,R,false,lite,0.1858,46.06,42.01,50.05
+2018-10-22,FL,"",,Others,,false,lite,0.0,2.51,0.75,4.72
+2018-10-22,GA,"",,Brian Kemp,R,false,lite,0.5531,49.69,45.95,53.49
+2018-10-22,GA,"",,Stacey Abrams,D,false,lite,0.4469,49.11,45.29,52.82
+2018-10-22,GA,"",,Ted Metz,L,false,lite,0.0,1.2,0.26,2.44
+2018-10-22,HI,"",,David Ige,D,true,lite,0.9896,60.32,53.71,66.93
+2018-10-22,HI,"",,Andria Tupola,R,false,lite,0.0104,36.04,29.39,42.59
+2018-10-22,HI,"",,Others,,false,lite,0.0,3.65,1.29,6.55
+2018-10-22,IA,"",,Fred Hubbell,D,false,lite,0.747,51.03,45.6,56.38
+2018-10-22,IA,"",,Kim Reynolds,R,true,lite,0.253,45.77,40.37,51.14
+2018-10-22,IA,"",,Others,,false,lite,0.0,3.2,1.05,5.83
+2018-10-22,ID,"",,Brad Little,R,false,lite,0.8447,51.98,44.99,58.96
+2018-10-22,ID,"",,Paulette Jordan,D,false,lite,0.1553,41.55,34.53,48.48
+2018-10-22,ID,"",,Others,,false,lite,0.0,6.47,2.88,10.64
+2018-10-22,IL,"",,JB Pritzker,D,false,lite,0.9797,56.59,50.83,62.3
+2018-10-22,IL,"",,Bruce Rauner,R,true,lite,0.0203,38.4,32.65,44.1
+2018-10-22,IL,"",,Others,,false,lite,0.0,5.01,2.01,8.6
+2018-10-22,KS,"",,Laura Kelly,D,false,lite,0.5359,44.42,38.83,49.95
+2018-10-22,KS,"",,Kris Kobach,R,false,lite,0.4636,43.83,38.18,49.4
+2018-10-22,KS,"",,Greg Orman,I,false,lite,0.0005,9.89,5.26,15.15
+2018-10-22,KS,"",,Others,,false,lite,0.0,1.87,0.49,3.64
+2018-10-22,MA,"",,Charlie Baker,R,true,lite,0.9968,68.08,60.53,75.68
+2018-10-22,MA,"",,Jay Gonzalez,D,false,lite,0.0032,31.92,24.32,39.47
+2018-10-22,MD,"",,Larry Hogan,R,true,lite,0.9815,57.83,52.23,63.39
+2018-10-22,MD,"",,Ben Jealous,D,false,lite,0.0185,39.29,33.69,44.9
+2018-10-22,MD,"",,Others,,false,lite,0.0,2.89,0.91,5.34
+2018-10-22,ME,"",,Janet Mills,D,false,lite,0.8261,52.69,47.17,58.2
+2018-10-22,ME,"",,Shawn Moody,R,false,lite,0.1739,44.92,39.38,50.42
+2018-10-22,ME,"",,Others,,false,lite,0.0,2.39,0.7,4.53
+2018-10-22,MI,"",,Gretchen Whitmer,D,false,lite,0.9396,54.14,49.29,58.93
+2018-10-22,MI,"",,Bill Schuette,R,false,lite,0.0604,42.73,37.86,47.54
+2018-10-22,MI,"",,Others,,false,lite,0.0,3.13,1.02,5.7
+2018-10-22,MN,"",,Tim Walz,D,false,lite,0.8582,52.47,47.9,56.97
+2018-10-22,MN,"",,Jeff Johnson,R,false,lite,0.1418,45.15,40.61,49.71
+2018-10-22,MN,"",,Others,,false,lite,0.0,2.39,0.7,4.53
+2018-10-22,NE,"",,Pete Ricketts,R,true,lite,0.9693,62.92,54.48,71.36
+2018-10-22,NE,"",,Bob Krist,D,false,lite,0.0307,37.08,28.64,45.52
+2018-10-22,NH,"",,Chris Sununu,R,true,lite,0.9417,55.28,50.14,60.38
+2018-10-22,NH,"",,Molly Kelly,D,false,lite,0.0583,42.75,37.62,47.89
+2018-10-22,NH,"",,Jilletta Jarvis,L,false,lite,0.0,1.97,0.53,3.84
+2018-10-22,NM,"",,Michelle Lujan Grisham,D,false,lite,0.8158,53.31,48.54,58.03
+2018-10-22,NM,"",,Steve Pearce,R,false,lite,0.1842,46.69,41.97,51.46
+2018-10-22,NV,"",,Adam Laxalt,R,false,lite,0.5349,48.98,44.61,53.34
+2018-10-22,NV,"",,Steve Sisolak,D,false,lite,0.4651,48.45,44.06,52.79
+2018-10-22,NV,"",,Others,,false,lite,0.0,2.57,0.77,4.82
+2018-10-22,NY,"",,Andrew Cuomo,D,true,lite,0.9953,58.42,53.45,63.32
+2018-10-22,NY,"",,Marc Molinaro,R,false,lite,0.0047,37.8,32.82,42.75
+2018-10-22,NY,"",,Others,,false,lite,0.0,3.77,1.33,6.74
+2018-10-22,OH,"",,Mike DeWine,R,false,lite,0.5192,49.12,44.85,53.33
+2018-10-22,OH,"",,Richard Cordray,D,false,lite,0.4808,48.81,44.58,53.03
+2018-10-22,OH,"",,Others,,false,lite,0.0,2.07,0.56,3.99
+2018-10-22,OK,"",,Kevin Stitt,R,false,lite,0.6547,50.65,45.36,55.95
+2018-10-22,OK,"",,Drew Edmondson,D,false,lite,0.3453,47.54,42.24,52.82
+2018-10-22,OK,"",,Chris Powell,L,false,lite,0.0,1.81,0.47,3.55
+2018-10-22,OR,"",,Kate Brown,D,true,lite,0.7104,49.05,43.06,54.96
+2018-10-22,OR,"",,Knute Buehler,R,false,lite,0.2896,44.36,38.33,50.28
+2018-10-22,OR,"",,Others,,false,lite,0.0,6.59,2.95,10.84
+2018-10-22,PA,"",,Tom Wolf,D,true,lite,0.9857,56.53,52.17,60.85
+2018-10-22,PA,"",,Scott Wagner,R,false,lite,0.0143,41.44,37.09,45.76
+2018-10-22,PA,"",,Others,,false,lite,0.0,2.04,0.56,3.92
+2018-10-22,RI,"",,Gina Raimondo,D,true,lite,0.8812,51.92,45.31,58.4
+2018-10-22,RI,"",,Allan Fung,R,false,lite,0.1188,40.62,34.07,47.16
+2018-10-22,RI,"",,Others,,false,lite,0.0,7.46,3.48,12.0
+2018-10-22,SC,"",,Henry McMaster,R,true,lite,0.9757,59.3,53.52,65.13
+2018-10-22,SC,"",,James Smith,D,false,lite,0.0243,40.7,34.87,46.48
+2018-10-22,SD,"",,Kristi Noem,R,false,lite,0.6521,50.99,43.98,58.0
+2018-10-22,SD,"",,Billie Sutton,D,false,lite,0.3479,46.93,39.89,53.9
+2018-10-22,SD,"",,Kurt Evans,L,false,lite,0.0,2.08,0.57,4.0
+2018-10-22,TN,"",,Bill Lee,R,false,lite,0.9853,54.77,49.8,59.77
+2018-10-22,TN,"",,Karl Dean,D,false,lite,0.0147,38.78,33.68,43.74
+2018-10-22,TN,"",,Others,,false,lite,0.0,6.45,2.87,10.6
+2018-10-22,TX,"",,Greg Abbott,R,true,lite,0.996,58.54,54.2,62.87
+2018-10-22,TX,"",,Lupe Valdez,D,false,lite,0.0039,39.57,35.23,43.88
+2018-10-22,TX,"",,Mark Tippetts,L,false,lite,0.0,1.89,0.49,3.68
+2018-10-22,VT,"",,Phil Scott,R,true,lite,0.8073,49.77,42.35,57.08
+2018-10-22,VT,"",,Christine Hallquist,D,false,lite,0.1927,40.57,33.21,47.86
+2018-10-22,VT,"",,Others,,false,lite,0.0,9.66,5.05,14.84
+2018-10-22,WI,"",,Tony Evers,D,false,lite,0.7588,51.03,45.76,56.19
+2018-10-22,WI,"",,Scott Walker,R,true,lite,0.2412,45.6,40.37,50.85
+2018-10-22,WI,"",,Others,,false,lite,0.0,3.37,1.15,6.09
+2018-10-22,WY,"",,Mark Gordon,R,false,lite,0.9455,58.85,49.97,67.75
+2018-10-22,WY,"",,Mary Throne,D,false,lite,0.0545,36.6,27.67,45.53
+2018-10-22,WY,"",,Others,,false,lite,0.0,4.55,1.75,7.91
